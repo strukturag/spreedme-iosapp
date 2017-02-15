@@ -1,0 +1,708 @@
+/* Show something about something. Keep as short as possible */
+"button_about" = "버튼_관련";
+
+/* Accept(verb). Keep as short as possible */
+"button_accept" = "버튼_승락";
+
+/* Add as a contact */
+"button_add-contact" = "버튼_연락처추가";
+
+/* Call as a noun. */
+"button_add-to-call" = "버튼_요청추가";
+
+/* Answer(verb). Keep as short as possible */
+"button_answer" = "버튼_대답";
+
+/* Call as a verb. Keep as short as possible */
+"button_call" = "버튼_요청";
+
+/* General cancel action */
+"button_cancel" = "버튼_취소";
+
+/* Change options. Keep as short as possible */
+"button_change-option" = "버튼_옵션변경";
+
+/* Change(verb) server. Keep as short as possible */
+"button_change-server" = "버튼_서버변경";
+
+/* Chat as a verb. Keep as short as possible */
+"button_chat" = "버튼_채팅";
+
+/* Choose existing (photo). 'Photo' is already mentioned in other UI element. */
+"button_choose-existing-photo" = "버튼_현재사진선택";
+
+/* Clean data. Clean as a verb. */
+"button_clean-data" = "버튼_데이터정리";
+
+/* General Confirm button label */
+"button_confirm" = "버튼_확인";
+
+/* Connect. Keep as short as possible */
+"button_connect" = "버튼_연결";
+
+/* Create. Keep as short as possible */
+"button_create" = "버튼_생성";
+
+/* General delete action */
+"button_delete" = "버튼_삭제";
+
+/* Disconnect. Keep as short as possible */
+"button_disconnect" = "버튼_연결끊음";
+
+/* Keep as short as possible */
+"button_do-not-ask-again" = "버튼_다시묻지않음";
+
+/* Keep as short as possible */
+"button_do-not-show-this-again" = "버튼_다시보여주지않음";
+
+/* The translation should be as short as possible. */
+"button_done" = "버튼_실행";
+
+/* Edit(verb). Keep as short as possible */
+"button_edit" = "버튼_변경";
+
+/* Exit(verb) room. Keep as short as possible */
+"button_exit-room" = "버튼_방에서나감";
+
+/* Basically show full info. Keep as short as possible */
+"button_full-info" = "버튼_전체정보";
+
+/* In this context this is shown outside the app and this action should bring user back to app */
+"button_go-to-app" = "버튼_앱으로가기";
+
+/* Keep as short as possible */
+"button_go-to-appstore" = "버튼_앱스토어로가기";
+
+/* Hang up/finish call. Keep as short as possible */
+"button_hang-up" = "버튼_전화끊기";
+
+/* Ignore(verb). Keep as short as possible */
+"button_ignore" = "버튼_무시";
+
+/* Button to accept the use of a spreedbox. */
+"button_intial-notification-screen_use-spreedbox" = "버튼_spreedbox사용 초기통보화면";
+
+/* Button to accept the use of the Spreed.ME service. */
+"button_intial-notification-screen_use-spreedme" = "버튼_spreedme사용 초기통보화면";
+
+/* Basically show more options. Keep as short as possible */
+"button_more-option" = "버튼_추가옵션";
+
+/* General OK button label */
+"button_ok" = "버튼_오케이";
+
+/* Read(verb) message. Keep as short as possible */
+"button_read-message" = "버튼_메시지읽기";
+
+/* Register(verb) */
+"button_register" = "버튼_등록";
+
+/* Reject(verb). Keep as short as possible */
+"button_reject" = "버튼_거절";
+
+/* Reject(verb) call(noun). Keep as short as possible */
+"button_reject-call" = "버튼_요청거절";
+
+/* Remove contact */
+"button_remove-contact" = "버튼_연락처삭제";
+
+/* Reset as verb here */
+"button_reset-app" = "버튼_앱리셋";
+
+/* Room chat. Keep as short as possible */
+"button_room-chat" = "버튼_채팅방";
+
+/* Used when some error happened and user is presented with message about error but can only close message, since no other action possible */
+"button_sad-ok" = "버튼_오케이";
+
+/* Please keep as short as possible. */
+"button_send" = "버튼_전송";
+
+/* Message is a chat message. */
+"button_send-message" = "버튼_메시지전송";
+
+/* Set some value */
+"button_set" = "버튼_설정";
+
+/* Share a file */
+"button_share-file" = "버튼_화일공유";
+
+/* Share my location */
+"button_share-location" = "버튼_위치공유";
+
+/* Share(verb) room. Keep as short as possible */
+"button_share-room" = "버튼_방공유";
+
+/* Share with a friend */
+"button_share-room-friend" = "버튼_방친구공유";
+
+/* Share with a user of this Spreedbox */
+"button_share-room-spreedboxuser" = "버튼_방spreedboxuser공유";
+
+/* Sign in. Keep as short as possible */
+"button_sign-in" = "버튼_싸인인";
+
+/* Sign(verb) me in. Keep as short as possible */
+"button_sign-me-in" = "버튼_싸인인 ";
+
+/* Sign out. Keep as short as possible */
+"button_sign-out" = "버튼_싸인아웃";
+
+/* Do not trust. Please keep as short as possible */
+"button_ssl_do-not-trust" = "버튼_비신뢰보안";
+
+/* Trust this certificate. Please keep as short as possible */
+"button_ssl_trust-certificate" = "버튼_신뢰보안";
+
+/* Stop(verb) calling. Keep as short as possible */
+"button_stop-calling" = "버튼_요청중지";
+
+/* Take a photo */
+"button_take-photo" = "버튼_사진촬영";
+
+/* Tap(verb) to view screen(screensharing enabled by remote user) */
+"button_tap-to-view-shared-screen" = "버튼_공유화면보기";
+
+/* Video answer(verb). Keep as short as possible */
+"button_video-answer" = "버튼_비디오응답";
+
+/* Call as a noun. */
+"button_video-call" = "버튼_비디오요청";
+
+/* In this context this is shown outside the app and this action should bring user back to app */
+"button_view-in-the-app" = "버튼_앱에서보기";
+
+/* Call as a noun. */
+"button_voice-call" = "버튼_음성요청";
+
+/* General YES button label */
+"button_yes" = "버튼_예";
+
+/* Part of the text to present when app user is calling to another user(Calling username). You can move '%@' but make sure not to delete it. */
+"callview_label-arg1_user-is-calling-to-other-user" = "보기요청_사용자가다른사용자요청";
+
+/* Part of the text to present when user is in the call(empty_string username). Probably should be zero length string for any language. You can move '%@' but make sure not to delete it. */
+"callview_label-arg1_user-is-connected" = "보기요청_사용자연결됨";
+
+/* Part of the text to present when user is connecting to the current call(Calling username). This can happen when user was in call an due to temporary problems with internet call is interrupted. You can move '%@' but make sure not to delete it. */
+"callview_label-arg1_user-is-connecting" = "보기요청_사용자연결중";
+
+/* Part of the text to present when app user is receiving incoming call from another user(Incoming call from username). You can move '%@' but make sure not to delete it. */
+"callview_label-arg1_user-is-receiving-incoming-call" = "보기요청_사용자가요청응답중";
+
+/* Text to present when app user is disconnected and connection failed beyond repairment. */
+"callview_label_connection-failed" = "보기요청_연결실패";
+
+/* Text to present when app user is disconnected due to network problems or due to other reasons. */
+"callview_label_user-is-disconnected" = "보기요청_사용자연결단절";
+
+/* Full String is composed like: Username1, username2 are typing… You can change position of %@ in the string but you should keep it */
+"label-arg1_are-typing-ellipsis" = "레이블_간략입력";
+
+/* You can change place of '%@' to better match the language of translation, but you should not remove it from string */
+"label-arg1_is-calling-you" = "레이블_요청중";
+
+/* Full String is composed like: Username is typing… You can change position of %@ in the string but you should keep it */
+"label-arg1_is-typing-ellipsis" = "레이블_간략입력";
+
+/* You can change place of '%@' to better match the language of translation, but you should not remove it from string */
+"label-arg1_missed-call-from" = "레이블_미접수요청";
+
+/* Full String is composed like: 10 unread messages. You can change position of %d in the string but you should keep it */
+"label-arg1_unread-messages-plural" = "레이블_미확인메시지들";
+
+/* Full String is composed like: 1 unread messages. You can change position of %d in the string but you should keep it */
+"label-arg1_unread-messages-singular" = "레이블_미확인메시지";
+
+/* Active call(noun) */
+"label_active-call" = "레이블_활성요청";
+
+/* Advanced settings */
+"label_advanced-settings" = "레이블_추가세팅";
+
+/* Application settings */
+"label_application-settings" = "레이블_응용프로그램세팅";
+
+/* Used for settings and general naming */
+"label_background" = "레이블_배경";
+
+/* Camera (recording device) */
+"label_camera" = "레이블_";
+
+/* Chats(noun) */
+"label_chat-plural" = "레이블_채팅들";
+
+/* Chat(noun) */
+"label_chat-singular" = "레이블_채팅";
+
+/* Connected */
+"label_connected" = "레이블_연결됨";
+
+/* Connecting */
+"label_connecting" = "레이블_연결중";
+
+/* Connecting… */
+"label_connecting-ellipsis" = "레이블_연결중";
+
+/* Contact requests */
+"label_contact-requests" = "레이블_연락처요청";
+
+/* Contacts of the user */
+"label_contacts" = "레이블_연락처";
+
+/* Default room. Room with empty name whihc was the default place user was put after login. */
+"label_default-room-name" = "레이블_기본방이름";
+
+/* Disconnected */
+"label_disconnected" = "레이블_단절됨";
+
+/* Enter an expiration date */
+"label_enter-expiration-time" = "레이블_제한시간입력";
+
+/* Enter a name */
+"label_enter-friend-name" = "레이블_친구이름입력";
+
+/* Enter a room name */
+"label_enter-room-name" = "레이블_방이름입력";
+
+/* Placeholder of textfield for entering server url */
+"label_enter-server-url" = "레이블_서버url입력";
+
+/* Placeholder of textfield for Spreedbox address */
+"label_enter-spreedbox-address" = "레이블_spreedbox주소입력";
+
+/* Message shows continuous process of establishing connection */
+"label_establishing-connection" = "레이블_연결수립";
+
+/* Computer files. */
+"label_file-plural" = "레이블_화일들";
+
+/* Computer file. */
+"label_file-singular" = "레이블_화일";
+
+/* FPS=Frames per second. */
+"label_fps" = "레이블_초당후레임수";
+
+/* Geolocation */
+"label_geolocation" = "레이블_위치";
+
+/* In-app documents directory */
+"label_in-app-documents-directory" = "레이블_앱다큐먼트목차";
+
+/* I believe colon should be preserved. */
+"label_incoming-file" = "레이블_착신화일";
+
+/* Link for information about the Spreedbox. */
+"label_intial-notification-screen_spreedbox-link" = "레이블_spreedbox연결통보화면";
+
+/* States */
+"label_led-states" = "레이블_led상황";
+
+/* License */
+"label_licenses" = "레이블_라이센스";
+
+/* Text for activity indicator */
+"label_loading-screensharing" = "레이블_공유화면로딩";
+
+/* Text on login screen, when user taps it he/she is taken to create account screen */
+"label_login-screen_create-account-prompt-text" = "레이블_구좌생성로그인화면";
+
+/* Text on login screen, when user taps it he/she is taken to reset password screen */
+"label_login-screen_reset-password-prompt-text" = "레이블_암호리셋로그인화면";
+
+/* Me. Personal pronoun as object */
+"label_me" = "레이블_본인";
+
+/* Missed calls */
+"label_missed-calls" = "레이블_미확인요청";
+
+/* You have not added any user as a contact */
+"label_no-contacts" = "레이블_연락처없음";
+
+/* No data */
+"label_no-data" = "레이블_자료없음";
+
+/* You have not received any messages or missed calls. */
+"label_no-messages-no-missed-calls" = "레이블_미확인요청자료없음";
+
+/* Press + to add and visit new rooms */
+"label_no-rooms" = "레이블_방없음";
+
+/* No one else in this room */
+"label_no-users-in-room" = "레이블_방에사용자없음";
+
+/* Share this room with your friends to meet them here */
+"label_no-users-more-info" = "레이블_사용자관련자료없음";
+
+/* Notify about updates. Should user be notified that there is a new application version */
+"label_notify-about-updates" = "레이블_정보에대한통보없음";
+
+/* I believe colon should be preserved. */
+"label_outgoing-file" = "레이블_발신화일";
+
+/* Own spreed mode name. Probably shouldn't be translated. Depends on marketing */
+"label_own-spreed-mode" = "레이블_spreed모드";
+
+/* Password */
+"label_password" = "레이블_비밀번호";
+
+/* User device photo library */
+"label_photo-library" = "레이블_사진자료";
+
+/* Generic 'please wait' */
+"label_please-wait" = "레이블_기다리십시오";
+
+/* Generic 'please wait…' */
+"label_please-wait-ellipsis" = "레이블_기다리십시오(생략)";
+
+/* Received as adjective */
+"label_received-call" = "레이블_요청수신";
+
+/* Received contact requests. */
+"label_received-contact-requests" = "레이블_연락처요청수신";
+
+/* Received data. Received as adjective. */
+"label_received-data" = "레이블_수신자료";
+
+/* Request status: Delivered */
+"label_request-status_delivered" = "레이블_상태요청배달됨";
+
+/* Request status: Rejected */
+"label_request-status_rejected" = "레이블_상태요청거부됨";
+
+/* Request status: Seen */
+"label_request-status_seen" = "레이블_상태요청보여짐";
+
+/* Request status: Sent */
+"label_request-status_sent" = "레이블_상태요청전송됨";
+
+/* Room name */
+"label_room-name" = "레이블_방이름";
+
+/* Screen sharing */
+"label_screen-sharing" = "레이블_공유화면";
+
+/* Text for activity indicator */
+"label_sending-current-location" = "레이블_현재위치전송";
+
+/* Sent contact requests */
+"label_sent-contact-requests" = "레이블_연락처요청전송";
+
+/* Sent data. Sent as adjective. */
+"label_sent-data" = "레이블_데이타전송";
+
+/* Server settings */
+"label_server-settings" = "레이블_서버세팅";
+
+/* Server URL */
+"label_server-url" = "레이블_서버url";
+
+/* Settings */
+"label_settings" = "레이블_세팅";
+
+/* Advanced application settings */
+"label_settings_advanced" = "레이블_추가세팅";
+
+/* This should be a name as it is shown in system Settings app on iOS */
+"label_settings_ios_camera" = "레이블_ios카메라세팅";
+
+/* This should be a name as it is shown in system Settings app on iOS */
+"label_settings_ios_location-services" = "레이블_ios위치서비스세팅";
+
+/* This should be a name as it is shown in system Settings app on iOS */
+"label_settings_ios_microphone" = "레이블_ios마이크세팅";
+
+/* This should be a name as it is shown in system Settings app on iOS */
+"label_settings_ios_privacy" = "레이블_ios개인정보세팅";
+
+/* This should be a name as it is shown in system Settings app on iOS */
+"label_settings_ios_settings" = "레이블_ios세팅";
+
+/* Setup(verb) server */
+"label_setup-server" = "레이블_서버설정";
+
+/* This string is used in critical case as a user name when for some reason we couldn't get user name. It shouldn't ever happen in normal working app. hmm… some ghost is typing */
+"label_some-ghost" = "레이블_특이한입력";
+
+/* Spreedbox address */
+"label_spreedbox-address" = "레이블_spreedbox주소";
+
+/* Spreedbox mode name. Probably shouldn't be translated. Depends on marketing */
+"label_spreedbox-mode" = "레이블_spreedbox모드";
+
+/* Setup(verb) Spreedbox */
+"label_spreedbox-server" = "레이블_spreedbox서버";
+
+/* Spreedbox settings */
+"label_spreedbox-settings" = "레이블_spreedbox세팅";
+
+/* Certificates */
+"label_ssl_certificate-plural" = "레이블_ssl인증";
+
+/* When cert expires */
+"label_ssl_expires" = "레이블_ssl만료";
+
+/* MD5 fingerprint of cert */
+"label_ssl_fingerpring-md5" = "레이블_ssl_md5지문";
+
+/* SHA1 fingerprint of cert */
+"label_ssl_fingerprint-sha1" = "레이블_ssl_sha1지문";
+
+/* Issuer of the certificate */
+"label_ssl_issuer" = "레이블_ssl시작";
+
+/* Not supported yet */
+"label_ssl_not-supported-yet" = "레이블_ssl지원안됨";
+
+/* Public key of cert */
+"label_ssl_public-key" = "레이블_ssl공용키";
+
+/* Algorithm */
+"label_ssl_public-key-algorithm" = "레이블_ssl공용키알고리즘";
+
+/* Serial number of certificate */
+"label_ssl_serial-number" = "레이블_ssl일련번호";
+
+/* Subject common name, as defined for SSL certs */
+"label_ssl_subject-cn" = "레이블_ssl공용이름";
+
+/* Version of cert */
+"label_ssl_version" = "레이블_ssl버젼";
+
+/* Status message users sometimes make as a subtitle to their name. Like current playing song or witty quote */
+"label_status" = "레이블_상태";
+
+/* Total data. Total as adjective */
+"label_total-data" = "레이블_전체데이타";
+
+/* Trusted SSL store. A place where trusted SSL/TLS certificates are stored. */
+"label_trusted-ssl-store" = "레이블_신뢰ssl저장";
+
+/* Buddy is offline */
+"label_user-is-offline" = "레이블_사용자오프라인";
+
+/* Users */
+"label_user-plural" = "레이블_사용자들";
+
+/* User */
+"label_user-singular" = "레이블_사용자";
+
+/* Table view section title for calling related operations performed by user. */
+"label_user-view_call" = "레이블_사용자확인요청";
+
+/* Table view section title for chatting related operations performed by user. */
+"label_user-view_chat" = "레이블_사용자확인채팅";
+
+/* Table view section title for contacts related operations performed by user. */
+"label_user-view_contacts" = "레이블_사용자확인연락처";
+
+/* Generating Temporary Password */
+"label_user-view_generating-temporary-password" = "레이블_사용자확인임시암호생성";
+
+/* Table view row title or alert title for showing that contact's sessions are being retrieved. */
+"label_user-view_retrieving-contact-sessions" = "레이블_사용자확인연락처조회";
+
+/* Retrieving LED configuration */
+"label_user-view_retrieving-led-conf" = "레이블_사용자확인led환경";
+
+/* Username label. For login. */
+"label_username" = "레이블_사용자이름";
+
+/* User's profile */
+"label_users-profile" = "레이블_사용자정보";
+
+/* Video */
+"label_video" = "레이블_비디오";
+
+/* User has 'muted' his video and doesn't send it. Probably it can be 'muted' by the app in some cases. */
+"label_video-is-turned-off" = "레이블_비디오꺼짐";
+
+/* Video quality */
+"label_video-quality" = "레이블_비디오수준";
+
+/* Probably should left as HD but maybe some languages use ohter idiom. */
+"label_video-settings_720p-quality-short" = "레이블_비디오720p세팅";
+
+/* Probably should left as Full HD but maybe some languages use ohter idiom. */
+"label_video-settings_1080p-quality-short" = "레이블_비디오1080p세팅";
+
+/* I believe it should be kept lowercase. */
+"label_video-settings_auto" = "레이블_비디오자동세팅";
+
+/* Translation should be the same as label_video-settings_high-quality but shortened. */
+"label_video-settings_high-quality-short" = "레이블_비디오고화질세팅";
+
+/* Translation should be the same as label_video-settings_low-quality but shortened. */
+"label_video-settings_low-quality-short" = "레이블_비디오저화질세팅";
+
+/* I beleive colon should be preserved. */
+"label_you-have-received-location" = "레이블_수신위치";
+
+/* I beleive colon should be preserved. */
+"label_you-have-shared-location" = "레이블_공유위치";
+
+/* Your name */
+"label_your-name" = "레이블_본인이름";
+
+/* Username */
+"label_your-owncloud-username" = "레이블_본인크라우드이름";
+
+/* Your picture. User's picture. */
+"label_your-picture" = "레이블_본인사진";
+
+/* Your Spreed Name */
+"label_your-spreed-name" = "레이블_본인spreed이름";
+
+/* This string is used in conjunction with user name: username. Call has ended. */
+"message_body_call-alert-view_call-has-ended" = "메시지_경고요청종료";
+
+/* This string is used in conjunction with user name: username is busy. */
+"message_body_call-alert-view_is-busy" = "메시지_경고요청통화중";
+
+/* This string is used in conjunction with user name: username is not answering. */
+"message_body_call-alert-view_is-not-answering" = "메시지_경고요청무응답";
+
+/* This string is used in conjunction with user name: username rejected your call. */
+"message_body_call-alert-view_rejected-your-call" = "메시지_경고요청거절";
+
+/* Do you want to remove all messages in this chat? */
+"message_body_clear-chat-messages" = "메시지_채팅메시지삭제";
+
+/* Do you want to log out? */
+"message_body_confirm-logout" = "메시지_로그아웃확인";
+
+/* This string is used in conjunction with user name: username is now your contact. */
+"message_body_contact-alert-view_accepted-contact-request" = "메시지_연락처요청승인경고";
+
+/* This string is used in conjunction with user name: username rejected your contact request. */
+"message_body_contact-alert-view_rejected-contact-request" = "메시지_연락처요청거절경고";
+
+/* This string is used in conjunction with user name: username wants to become your contact. */
+"message_body_contact-alert-view_sent-contact-request" = "메시지_연락처요청전송경고";
+
+/* Spreed Name or password is incorrect. */
+"message_body_login-failed_incorrect-spreed-name-or-password" = "메시지_부정확한이름암호로로그인실패";
+
+/* Shown when user's device doesn't have camera or cannot work with it */
+"message_body_no-camera" = "메시지_카메라없음";
+
+/* Are you sure that you want to clean all data stored in your app? */
+"message_body_reset-app-warning" = "메시지_앱리셋경고";
+
+/* Meet me here: https://spreed.me/ */
+"message_body_share-room" = "메시지_방공유";
+
+/* General message without specifying reason */
+"message_body_sign-in-failed_reason-unspecified" = "메시지_불명확한이유로싸인인실패";
+
+/* Do you want to stop sharing this file? */
+"message_body_stop-sharing-file" = "메시지_화일공유중지";
+
+/* Could not generate a temporary password */
+"message_body_tp-error" = "메시지_임시암호실패";
+
+/* Alert message for showing that contact's sessions retrieving has failed. */
+"message_body_user-view_failed-retrieving-contact-sessions" = "메시지_연락처조회중사용자화면실패";
+
+/* There are no files in this directory. */
+"message_no-files-in-this-directory" = "메시지_디렉토리에화일없음";
+
+/* Meet me here */
+"message_subject_share-room" = "메시지_공유방";
+
+/* 'device' is not enabled for 'appname'. You can move around '%@' but make sure you have 2 of them. */
+"message_title-arg2_camera-or-mic-disabled" = "메시지_카메라마이크불가";
+
+/* 'Location services' are not enabled for 'appname'. You can move around '%@' but make sure you have 2 of them. */
+"message_title-arg2_location-services-disabled" = "메시지_위치서비스불가";
+
+/* App update available */
+"message_title_application-update-available" = "메시지_응용프로그램업데이트가능";
+
+/* Call has failed. This only can happen in rare ocasions and usually doesn't have any additional info. */
+"message_title_call-failed" = "메시지_요청실패";
+
+/* Warning before changing app mode */
+"message_title_change-app-mode-warning" = "메시지_앱모드변경경고";
+
+/* Clear(verb) chat */
+"message_title_clear-chat-messages" = "메시지_채팅메시지삭제";
+
+/* Could not obtain current location */
+"message_title_could-not-obtain-current-location" = "메시지_현재위치실패";
+
+/* There is no camera on device */
+"message_title_no-camera" = "메시지_카메라없음";
+
+/* Warning before reseting the app */
+"message_title_reset-app-warning" = "메시지_앱리셋경고";
+
+/* Share a file. Shown as a title to some action element like action sheet or alert which then gives user a choice from where to share a file. */
+"message_title_share-file" = "메시지_화일공유";
+
+/* Sign in failed */
+"message_title_sign-in-failed" = "메시지_싸인인실패";
+
+/* Stop sharing file */
+"message_title_stop-sharing-file" = "메시지_화일공유중지";
+
+/* User is already in the call */
+"message_title_user-in-call" = "메시지_사용자이미참석중";
+
+/* Alert title for showing that contact's sessions retrieving has failed. */
+"message_title_user-view_failed-retrieving-contact-sessions" = "메시지_연락처조회중사용자화면실패";
+
+/* Label for the checkbox of 'clean data when going to background' mode */
+"mode_label_clears-data" = "모드_데이타정리";
+
+/* Label for the checkbox of 'disconnected in background' mode */
+"mode_label_diconnected-in-background" = "모드_백그라운드연결중지";
+
+/* Place holder for name */
+"placeholder_name" = "위치확보_이름";
+
+/* This placeholder message encourages user to share his current status. Like current playing song or witty quote */
+"placeholder_status" = "위치확보_상태";
+
+/* Background settings screen title */
+"screen_title_background-settings" = "화면_백그라운드세팅";
+
+/* Registration */
+"screen_title_create-account" = "화면_계정생성";
+
+/* Data usage */
+"screen_title_data-usage" = "화면_데이타사용";
+
+/* LED Control */
+"screen_title_led-control" = "화면_led조정";
+
+/* Received */
+"screen_title_received" = "화면_수신중";
+
+/* Reset Password */
+"screen_title_reset-password" = "화면_암호리셋";
+
+/* Sent */
+"screen_title_sent" = "화면_전송";
+
+/* Total */
+"screen_title_total" = "화면_전체";
+
+/* Preferences. This should be small enough to fit into tab. ~11 Latin symbols fit. */
+"tabbar-item_title" = "탭바_타이틀";
+
+/* This should be small enough to fit into tab. ~11 Latin symbols fit. */
+"tabbar-item_title_files" = "탭바_타이틀화일";
+
+/* Recent chats/events/missed calls. This should be small enough to fit into tab. ~11 Latin symbols fit. */
+"tabbar-item_title_recent" = "탭바_타이틀최근";
+
+/* This should be small enough to fit into tab. ~11 Latin symbols fit. */
+"tabbar-item_title_rooms" = "탭바_타이틀방";
+
+/* This should be small enough to fit into tab. ~11 Latin symbols fit. */
+"tabbar-item_title_settings" = "탭바_타이틀세팅";
+
+/* Base for generating display user name when user has not setup his name. Generated name look like Anonymus 1 or Anonymus 134 */
+"user_base-for-generated-display-user-name" = "사용자_사용자이름표시";
+

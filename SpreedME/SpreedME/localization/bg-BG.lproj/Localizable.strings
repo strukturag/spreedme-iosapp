@@ -1,0 +1,708 @@
+/* Show something about something. Keep as short as possible */
+"button_about" = "Относно";
+
+/* Accept(verb). Keep as short as possible */
+"button_accept" = "Приемане";
+
+/* Add as a contact */
+"button_add-contact" = "Добавяне на контакт";
+
+/* Call as a noun. */
+"button_add-to-call" = "Добавяне към разговора";
+
+/* Answer(verb). Keep as short as possible */
+"button_answer" = "Отговори";
+
+/* Call as a verb. Keep as short as possible */
+"button_call" = "Обаждане";
+
+/* General cancel action */
+"button_cancel" = "Отказ";
+
+/* Change options. Keep as short as possible */
+"button_change-option" = "Промяна на Настройки";
+
+/* Change(verb) server. Keep as short as possible */
+"button_change-server" = "Смени Сървър";
+
+/* Chat as a verb. Keep as short as possible */
+"button_chat" = "Чат";
+
+/* Choose existing (photo). 'Photo' is already mentioned in other UI element. */
+"button_choose-existing-photo" = "Избирана настояща снимка";
+
+/* Clean data. Clean as a verb. */
+"button_clean-data" = "Изтрий данните";
+
+/* General Confirm button label */
+"button_confirm" = "Потвърждаване";
+
+/* Connect. Keep as short as possible */
+"button_connect" = "Свързване";
+
+/* Create. Keep as short as possible */
+"button_create" = "Създаване";
+
+/* General delete action */
+"button_delete" = "Изтриване";
+
+/* Disconnect. Keep as short as possible */
+"button_disconnect" = "Прекъсване";
+
+/* Keep as short as possible */
+"button_do-not-ask-again" = "Не питай отново";
+
+/* Keep as short as possible */
+"button_do-not-show-this-again" = "Не показвай това отново";
+
+/* The translation should be as short as possible. */
+"button_done" = "Готово";
+
+/* Edit(verb). Keep as short as possible */
+"button_edit" = "Редактиране";
+
+/* Exit(verb) room. Keep as short as possible */
+"button_exit-room" = "Излизане от Стая";
+
+/* Basically show full info. Keep as short as possible */
+"button_full-info" = "Пълна Информация";
+
+/* In this context this is shown outside the app and this action should bring user back to app */
+"button_go-to-app" = "Към Приложението";
+
+/* Keep as short as possible */
+"button_go-to-appstore" = "Към Онлайн Мазазин";
+
+/* Hang up/finish call. Keep as short as possible */
+"button_hang-up" = "Затвори";
+
+/* Ignore(verb). Keep as short as possible */
+"button_ignore" = "Игнорирай";
+
+/* Button to accept the use of a spreedbox. */
+"button_intial-notification-screen_use-spreedbox" = "Ползване на Spreedbox";
+
+/* Button to accept the use of the Spreed.ME service. */
+"button_intial-notification-screen_use-spreedme" = "Ползване на Spreed.ME услуга";
+
+/* Basically show more options. Keep as short as possible */
+"button_more-option" = "Допълнителни Опции";
+
+/* General OK button label */
+"button_ok" = "ОК";
+
+/* Read(verb) message. Keep as short as possible */
+"button_read-message" = "Прочитане на Съобщението";
+
+/* Register(verb) */
+"button_register" = "Регистриране";
+
+/* Reject(verb). Keep as short as possible */
+"button_reject" = "Отхвърляне";
+
+/* Reject(verb) call(noun). Keep as short as possible */
+"button_reject-call" = "Отхвърляне на разговор";
+
+/* Remove contact */
+"button_remove-contact" = "Премахване на Контакт";
+
+/* Reset as verb here */
+"button_reset-app" = "Върни първоначалните настройки";
+
+/* Room chat. Keep as short as possible */
+"button_room-chat" = "Чат Стая";
+
+/* Used when some error happened and user is presented with message about error but can only close message, since no other action possible */
+"button_sad-ok" = "ОК";
+
+/* Please keep as short as possible. */
+"button_send" = "Изпращане";
+
+/* Message is a chat message. */
+"button_send-message" = "Изпращане на съобщение";
+
+/* Set some value */
+"button_set" = "Задай";
+
+/* Share a file */
+"button_share-file" = "Споделяне на Файл";
+
+/* Share my location */
+"button_share-location" = "Споделяне на Локация";
+
+/* Share(verb) room. Keep as short as possible */
+"button_share-room" = "Споделяне на Стая";
+
+/* Share with a friend */
+"button_share-room-friend" = "Споделяне с приятел";
+
+/* Share with a user of this Spreedbox */
+"button_share-room-spreedboxuser" = "Споделяне с потребител от тoзи Spreedbox";
+
+/* Sign in. Keep as short as possible */
+"button_sign-in" = "Вход";
+
+/* Sign(verb) me in. Keep as short as possible */
+"button_sign-me-in" = "Вписване";
+
+/* Sign out. Keep as short as possible */
+"button_sign-out" = "Отписване";
+
+/* Do not trust. Please keep as short as possible */
+"button_ssl_do-not-trust" = "Не се доверявай";
+
+/* Trust this certificate. Please keep as short as possible */
+"button_ssl_trust-certificate" = "SSL Сертификат ";
+
+/* Stop(verb) calling. Keep as short as possible */
+"button_stop-calling" = "Спри обаждането";
+
+/* Take a photo */
+"button_take-photo" = "Направи снимка";
+
+/* Tap(verb) to view screen(screensharing enabled by remote user) */
+"button_tap-to-view-shared-screen" = "Натисни за Споделен Екран";
+
+/* Video answer(verb). Keep as short as possible */
+"button_video-answer" = "Видео Отговор";
+
+/* Call as a noun. */
+"button_video-call" = "Видео Обаждане";
+
+/* In this context this is shown outside the app and this action should bring user back to app */
+"button_view-in-the-app" = "Преглед в Приложението";
+
+/* Call as a noun. */
+"button_voice-call" = "Разговор";
+
+/* General YES button label */
+"button_yes" = "Да";
+
+/* Part of the text to present when app user is calling to another user(Calling username). You can move '%@' but make sure not to delete it. */
+"callview_label-arg1_user-is-calling-to-other-user" = "Набиране на %@";
+
+/* Part of the text to present when user is in the call(empty_string username). Probably should be zero length string for any language. You can move '%@' but make sure not to delete it. */
+"callview_label-arg1_user-is-connected" = "%@ е свързан";
+
+/* Part of the text to present when user is connecting to the current call(Calling username). This can happen when user was in call an due to temporary problems with internet call is interrupted. You can move '%@' but make sure not to delete it. */
+"callview_label-arg1_user-is-connecting" = "Свързване с %@";
+
+/* Part of the text to present when app user is receiving incoming call from another user(Incoming call from username). You can move '%@' but make sure not to delete it. */
+"callview_label-arg1_user-is-receiving-incoming-call" = "Входящо обаждане от %@";
+
+/* Text to present when app user is disconnected and connection failed beyond repairment. */
+"callview_label_connection-failed" = "Неуспешно свързване";
+
+/* Text to present when app user is disconnected due to network problems or due to other reasons. */
+"callview_label_user-is-disconnected" = "Няма връзка с %@";
+
+/* Full String is composed like: Username1, username2 are typing… You can change position of %@ in the string but you should keep it */
+"label-arg1_are-typing-ellipsis" = "%@ пишат ...";
+
+/* You can change place of '%@' to better match the language of translation, but you should not remove it from string */
+"label-arg1_is-calling-you" = "Обаждане от %@ ";
+
+/* Full String is composed like: Username is typing… You can change position of %@ in the string but you should keep it */
+"label-arg1_is-typing-ellipsis" = "%@ пише ...";
+
+/* You can change place of '%@' to better match the language of translation, but you should not remove it from string */
+"label-arg1_missed-call-from" = "Пропуснато обаждане от %@";
+
+/* Full String is composed like: 10 unread messages. You can change position of %d in the string but you should keep it */
+"label-arg1_unread-messages-plural" = "%d непрочетени съобщения";
+
+/* Full String is composed like: 1 unread messages. You can change position of %d in the string but you should keep it */
+"label-arg1_unread-messages-singular" = "%d непрочетено съобщение";
+
+/* Active call(noun) */
+"label_active-call" = "Активно Обаждане";
+
+/* Advanced settings */
+"label_advanced-settings" = "Допълнителни Настройки";
+
+/* Application settings */
+"label_application-settings" = "Настройки на приложението";
+
+/* Used for settings and general naming */
+"label_background" = "Фон";
+
+/* Camera (recording device) */
+"label_camera" = "Камера";
+
+/* Chats(noun) */
+"label_chat-plural" = "Чатове";
+
+/* Chat(noun) */
+"label_chat-singular" = "Чат";
+
+/* Connected */
+"label_connected" = "Свързан";
+
+/* Connecting */
+"label_connecting" = "Свързване";
+
+/* Connecting… */
+"label_connecting-ellipsis" = "Свързване ...";
+
+/* Contact requests */
+"label_contact-requests" = "Молби за контакт";
+
+/* Contacts of the user */
+"label_contacts" = "Контакти";
+
+/* Default room. Room with empty name whihc was the default place user was put after login. */
+"label_default-room-name" = "Стая по подразбиране";
+
+/* Disconnected */
+"label_disconnected" = "Прекъсната връзка";
+
+/* Enter an expiration date */
+"label_enter-expiration-time" = "Въвеждане на срок на годност";
+
+/* Enter a name */
+"label_enter-friend-name" = "Въведете име";
+
+/* Enter a room name */
+"label_enter-room-name" = "Въведи името на стаята";
+
+/* Placeholder of textfield for entering server url */
+"label_enter-server-url" = "Въведи адрес над сървъра";
+
+/* Placeholder of textfield for Spreedbox address */
+"label_enter-spreedbox-address" = "Въведете адрес на Spreedbox";
+
+/* Message shows continuous process of establishing connection */
+"label_establishing-connection" = "Установяване на връзка";
+
+/* Computer files. */
+"label_file-plural" = "Файлове";
+
+/* Computer file. */
+"label_file-singular" = "Файл";
+
+/* FPS=Frames per second. */
+"label_fps" = "Брой кадри в секунда";
+
+/* Geolocation */
+"label_geolocation" = "Геолокация";
+
+/* In-app documents directory */
+"label_in-app-documents-directory" = "Папка Документи";
+
+/* I believe colon should be preserved. */
+"label_incoming-file" = "Входящ файл:";
+
+/* Link for information about the Spreedbox. */
+"label_intial-notification-screen_spreedbox-link" = "Искам да знам повече за Spreedbox";
+
+/* States */
+"label_led-states" = "Състояния";
+
+/* License */
+"label_licenses" = "Лицензи";
+
+/* Text for activity indicator */
+"label_loading-screensharing" = "Зареждане на споделения екран";
+
+/* Text on login screen, when user taps it he/she is taken to create account screen */
+"label_login-screen_create-account-prompt-text" = "Все още нямате Spreed Име и Парола?";
+
+/* Text on login screen, when user taps it he/she is taken to reset password screen */
+"label_login-screen_reset-password-prompt-text" = "Проблем с регистрацията?";
+
+/* Me. Personal pronoun as object */
+"label_me" = "Аз";
+
+/* Missed calls */
+"label_missed-calls" = "Пропуснати обаждания";
+
+/* You have not added any user as a contact */
+"label_no-contacts" = "Няма добавени потребители като контакти.";
+
+/* No data */
+"label_no-data" = "Няма данни";
+
+/* You have not received any messages or missed calls. */
+"label_no-messages-no-missed-calls" = "Няма получени съобщения или пропуснати обаждания.";
+
+/* Press + to add and visit new rooms */
+"label_no-rooms" = "Натиснете + за да добавите и посетите нови стаи";
+
+/* No one else in this room */
+"label_no-users-in-room" = "Стаята е празна";
+
+/* Share this room with your friends to meet them here */
+"label_no-users-more-info" = "Сподели тази стая с приятелите си за да се срещнете тук.";
+
+/* Notify about updates. Should user be notified that there is a new application version */
+"label_notify-about-updates" = "Уведомяване за обновления";
+
+/* I believe colon should be preserved. */
+"label_outgoing-file" = "Вие споделяте този файл:";
+
+/* Own spreed mode name. Probably shouldn't be translated. Depends on marketing */
+"label_own-spreed-mode" = "ownSpreed метод";
+
+/* Password */
+"label_password" = "Парола";
+
+/* User device photo library */
+"label_photo-library" = "Библиотека Снимки";
+
+/* Generic 'please wait' */
+"label_please-wait" = "Моля изчакайте";
+
+/* Generic 'please wait…' */
+"label_please-wait-ellipsis" = "Моля изчакайте ...";
+
+/* Received as adjective */
+"label_received-call" = "Прието обаждане";
+
+/* Received contact requests. */
+"label_received-contact-requests" = "Приети молби за контакт";
+
+/* Received data. Received as adjective. */
+"label_received-data" = "Приети данни";
+
+/* Request status: Delivered */
+"label_request-status_delivered" = "Статус на молбата: Доставена";
+
+/* Request status: Rejected */
+"label_request-status_rejected" = "Статус на молбата: Отказана";
+
+/* Request status: Seen */
+"label_request-status_seen" = "Статус на молбата: Прегледана";
+
+/* Request status: Sent */
+"label_request-status_sent" = "Статус на молбата: Изпратена";
+
+/* Room name */
+"label_room-name" = "Име на стаята";
+
+/* Screen sharing */
+"label_screen-sharing" = "Споделяне на екран";
+
+/* Text for activity indicator */
+"label_sending-current-location" = "Изпращане на текущата локация";
+
+/* Sent contact requests */
+"label_sent-contact-requests" = "Молбата за контакт е изпратена.";
+
+/* Sent data. Sent as adjective. */
+"label_sent-data" = "Информацията е изпратена.";
+
+/* Server settings */
+"label_server-settings" = "Настройки на сървъра";
+
+/* Server URL */
+"label_server-url" = "Адрес на сървъра";
+
+/* Settings */
+"label_settings" = "Настройки";
+
+/* Advanced application settings */
+"label_settings_advanced" = "Допълнителни Настройки";
+
+/* This should be a name as it is shown in system Settings app on iOS */
+"label_settings_ios_camera" = "Камера";
+
+/* This should be a name as it is shown in system Settings app on iOS */
+"label_settings_ios_location-services" = "Услуги по местоположение";
+
+/* This should be a name as it is shown in system Settings app on iOS */
+"label_settings_ios_microphone" = "Микрофон";
+
+/* This should be a name as it is shown in system Settings app on iOS */
+"label_settings_ios_privacy" = "Лични настройки";
+
+/* This should be a name as it is shown in system Settings app on iOS */
+"label_settings_ios_settings" = "Настройки";
+
+/* Setup(verb) server */
+"label_setup-server" = "Конфигуране на Сървър";
+
+/* This string is used in critical case as a user name when for some reason we couldn't get user name. It shouldn't ever happen in normal working app. hmm… some ghost is typing */
+"label_some-ghost" = "хмм ... Анонимен";
+
+/* Spreedbox address */
+"label_spreedbox-address" = "Spreedbox адрес";
+
+/* Spreedbox mode name. Probably shouldn't be translated. Depends on marketing */
+"label_spreedbox-mode" = "Spreedbox мод";
+
+/* Setup(verb) Spreedbox */
+"label_spreedbox-server" = "Конфигуриране на Spreedbox";
+
+/* Spreedbox settings */
+"label_spreedbox-settings" = "Spreedbox настройки";
+
+/* Certificates */
+"label_ssl_certificate-plural" = "Сертификати";
+
+/* When cert expires */
+"label_ssl_expires" = "Валиден до ";
+
+/* MD5 fingerprint of cert */
+"label_ssl_fingerpring-md5" = "MD5 отпечатък";
+
+/* SHA1 fingerprint of cert */
+"label_ssl_fingerprint-sha1" = "SHA1 отпечатък";
+
+/* Issuer of the certificate */
+"label_ssl_issuer" = "Издател";
+
+/* Not supported yet */
+"label_ssl_not-supported-yet" = "Не се поддържа все още";
+
+/* Public key of cert */
+"label_ssl_public-key" = "Публичен ключ";
+
+/* Algorithm */
+"label_ssl_public-key-algorithm" = "Алгоритъм";
+
+/* Serial number of certificate */
+"label_ssl_serial-number" = "Сериен номер";
+
+/* Subject common name, as defined for SSL certs */
+"label_ssl_subject-cn" = "Субект CN";
+
+/* Version of cert */
+"label_ssl_version" = "Версия";
+
+/* Status message users sometimes make as a subtitle to their name. Like current playing song or witty quote */
+"label_status" = "Статус";
+
+/* Total data. Total as adjective */
+"label_total-data" = "Общ обем на данните";
+
+/* Trusted SSL store. A place where trusted SSL/TLS certificates are stored. */
+"label_trusted-ssl-store" = "Доверен SSL магазин";
+
+/* Buddy is offline */
+"label_user-is-offline" = "Потребителят не е на линия";
+
+/* Users */
+"label_user-plural" = "Потребители";
+
+/* User */
+"label_user-singular" = "Потребител";
+
+/* Table view section title for calling related operations performed by user. */
+"label_user-view_call" = "Разговор";
+
+/* Table view section title for chatting related operations performed by user. */
+"label_user-view_chat" = "Чат";
+
+/* Table view section title for contacts related operations performed by user. */
+"label_user-view_contacts" = "Контакти";
+
+/* Generating Temporary Password */
+"label_user-view_generating-temporary-password" = "Генериране на временна парола";
+
+/* Table view row title or alert title for showing that contact's sessions are being retrieved. */
+"label_user-view_retrieving-contact-sessions" = "Получаване на контакт";
+
+/* Retrieving LED configuration */
+"label_user-view_retrieving-led-conf" = "Въвръщане на LED конфигурация";
+
+/* Username label. For login. */
+"label_username" = "Потребителско име";
+
+/* User's profile */
+"label_users-profile" = "Профил";
+
+/* Video */
+"label_video" = "Видео";
+
+/* User has 'muted' his video and doesn't send it. Probably it can be 'muted' by the app in some cases. */
+"label_video-is-turned-off" = "Видеото е изключено";
+
+/* Video quality */
+"label_video-quality" = "Качество на видеото";
+
+/* Probably should left as HD but maybe some languages use ohter idiom. */
+"label_video-settings_720p-quality-short" = "720р";
+
+/* Probably should left as Full HD but maybe some languages use ohter idiom. */
+"label_video-settings_1080p-quality-short" = "1080р";
+
+/* I believe it should be kept lowercase. */
+"label_video-settings_auto" = "автоматични видео настройки";
+
+/* Translation should be the same as label_video-settings_high-quality but shortened. */
+"label_video-settings_high-quality-short" = "Високо";
+
+/* Translation should be the same as label_video-settings_low-quality but shortened. */
+"label_video-settings_low-quality-short" = "Ниско";
+
+/* I beleive colon should be preserved. */
+"label_you-have-received-location" = "Получена локация:";
+
+/* I beleive colon should be preserved. */
+"label_you-have-shared-location" = "Вие споделихте вашата локация:";
+
+/* Your name */
+"label_your-name" = "Вашето име";
+
+/* Username */
+"label_your-owncloud-username" = "Потребителско име";
+
+/* Your picture. User's picture. */
+"label_your-picture" = "Вашата снимка";
+
+/* Your Spreed Name */
+"label_your-spreed-name" = "Вашето Spreed име";
+
+/* This string is used in conjunction with user name: username. Call has ended. */
+"message_body_call-alert-view_call-has-ended" = "Разговорът приключи.";
+
+/* This string is used in conjunction with user name: username is busy. */
+"message_body_call-alert-view_is-busy" = "е зает.";
+
+/* This string is used in conjunction with user name: username is not answering. */
+"message_body_call-alert-view_is-not-answering" = "не отговаря.";
+
+/* This string is used in conjunction with user name: username rejected your call. */
+"message_body_call-alert-view_rejected-your-call" = "отхвърли вашето обаждане.";
+
+/* Do you want to remove all messages in this chat? */
+"message_body_clear-chat-messages" = "Искате ли да премахнете всички съобщения от този разговор?";
+
+/* Do you want to log out? */
+"message_body_confirm-logout" = "Отпиши ме";
+
+/* This string is used in conjunction with user name: username is now your contact. */
+"message_body_contact-alert-view_accepted-contact-request" = "вече е ваш контакт.";
+
+/* This string is used in conjunction with user name: username rejected your contact request. */
+"message_body_contact-alert-view_rejected-contact-request" = "отхвърли вашата молба за контакт.";
+
+/* This string is used in conjunction with user name: username wants to become your contact. */
+"message_body_contact-alert-view_sent-contact-request" = "иска да стане ваш контакт.";
+
+/* Spreed Name or password is incorrect. */
+"message_body_login-failed_incorrect-spreed-name-or-password" = "Spreed името или паролата са грешни.";
+
+/* Shown when user's device doesn't have camera or cannot work with it */
+"message_body_no-camera" = "Моля изполвайте устройство с активирана камера.";
+
+/* Are you sure that you want to clean all data stored in your app? */
+"message_body_reset-app-warning" = "Сигурни ли сте, че искате да изтриете всичката информация във вашето приложение?";
+
+/* Meet me here: https://spreed.me/ */
+"message_body_share-room" = "Да се срещнем тук: https://spreed.me";
+
+/* General message without specifying reason */
+"message_body_sign-in-failed_reason-unspecified" = "Неуспешна регистрация";
+
+/* Do you want to stop sharing this file? */
+"message_body_stop-sharing-file" = "Искате ли да спрете споделянето на този файл?";
+
+/* Could not generate a temporary password */
+"message_body_tp-error" = "Временна парола не може да бъде генерирана.";
+
+/* Alert message for showing that contact's sessions retrieving has failed. */
+"message_body_user-view_failed-retrieving-contact-sessions" = "Моля проверете вашата интернет връзка.";
+
+/* There are no files in this directory. */
+"message_no-files-in-this-directory" = "Няма файлове в текущата директория.";
+
+/* Meet me here */
+"message_subject_share-room" = "Да се срешнем тук";
+
+/* 'device' is not enabled for 'appname'. You can move around '%@' but make sure you have 2 of them. */
+"message_title-arg2_camera-or-mic-disabled" = "%1$@ не е yпълномощен  за %2$@";
+
+/* 'Location services' are not enabled for 'appname'. You can move around '%@' but make sure you have 2 of them. */
+"message_title-arg2_location-services-disabled" = "%1$@ не са yпълномощени за %2$@";
+
+/* App update available */
+"message_title_application-update-available" = "Налична е нова версия на приложението";
+
+/* Call has failed. This only can happen in rare ocasions and usually doesn't have any additional info. */
+"message_title_call-failed" = "Обаждането е провалено.";
+
+/* Warning before changing app mode */
+"message_title_change-app-mode-warning" = "На път сте да промените вида на приложението.";
+
+/* Clear(verb) chat */
+"message_title_clear-chat-messages" = "Изчистване на разговора";
+
+/* Could not obtain current location */
+"message_title_could-not-obtain-current-location" = "Текущата локация на може да бъде получена.";
+
+/* There is no camera on device */
+"message_title_no-camera" = "Няма камера";
+
+/* Warning before reseting the app */
+"message_title_reset-app-warning" = "ВНИМАНИЕ!";
+
+/* Share a file. Shown as a title to some action element like action sheet or alert which then gives user a choice from where to share a file. */
+"message_title_share-file" = "Споделяне на файл";
+
+/* Sign in failed */
+"message_title_sign-in-failed" = "Неуспешна регистрация";
+
+/* Stop sharing file */
+"message_title_stop-sharing-file" = "Спри споделянето на файл";
+
+/* User is already in the call */
+"message_title_user-in-call" = "Потребителят е вече в разговора";
+
+/* Alert title for showing that contact's sessions retrieving has failed. */
+"message_title_user-view_failed-retrieving-contact-sessions" = "Неуспешно получаване на контакт";
+
+/* Label for the checkbox of 'clean data when going to background' mode */
+"mode_label_clears-data" = "Изчистване на информацията";
+
+/* Label for the checkbox of 'disconnected in background' mode */
+"mode_label_diconnected-in-background" = "Прекъсни връзка със сървъра";
+
+/* Place holder for name */
+"placeholder_name" = "Име";
+
+/* This placeholder message encourages user to share his current status. Like current playing song or witty quote */
+"placeholder_status" = "Какво мислиш?";
+
+/* Background settings screen title */
+"screen_title_background-settings" = "Фон";
+
+/* Registration */
+"screen_title_create-account" = "Регистрация";
+
+/* Data usage */
+"screen_title_data-usage" = "Обем на данни";
+
+/* LED Control */
+"screen_title_led-control" = "LED контрол";
+
+/* Received */
+"screen_title_received" = "Получено";
+
+/* Reset Password */
+"screen_title_reset-password" = "Нулиране на парола";
+
+/* Sent */
+"screen_title_sent" = "Изпратено";
+
+/* Total */
+"screen_title_total" = "Тотал";
+
+/* Preferences. This should be small enough to fit into tab. ~11 Latin symbols fit. */
+"tabbar-item_title" = "Предпочитания";
+
+/* This should be small enough to fit into tab. ~11 Latin symbols fit. */
+"tabbar-item_title_files" = "Файлове";
+
+/* Recent chats/events/missed calls. This should be small enough to fit into tab. ~11 Latin symbols fit. */
+"tabbar-item_title_recent" = "Най-нови";
+
+/* This should be small enough to fit into tab. ~11 Latin symbols fit. */
+"tabbar-item_title_rooms" = "Стаи";
+
+/* This should be small enough to fit into tab. ~11 Latin symbols fit. */
+"tabbar-item_title_settings" = "Настройки";
+
+/* Base for generating display user name when user has not setup his name. Generated name look like Anonymus 1 or Anonymus 134 */
+"user_base-for-generated-display-user-name" = "Анонимен";
+

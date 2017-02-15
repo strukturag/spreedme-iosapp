@@ -1,0 +1,7 @@
+SpreedME/SpreedME.xcodeproj/project.xcworkspace/xcuserdata
+SpreedME/SpreedME.xcodeproj/xcuserdata
+.gclient_entries
+third_party/chromium_deps
+SpreedME.xccheckout
+third_party/chromium_gn
+third_party/_bad_scm/webrtc/third_party

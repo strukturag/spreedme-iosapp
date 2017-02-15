@@ -1,0 +1,708 @@
+/* Show something about something. Keep as short as possible */
+"button_about" = "关于";
+
+/* Accept(verb). Keep as short as possible */
+"button_accept" = "接受";
+
+/* Add as a contact */
+"button_add-contact" = "添加联系人";
+
+/* Call as a noun. */
+"button_add-to-call" = "添加到电话";
+
+/* Answer(verb). Keep as short as possible */
+"button_answer" = "回答";
+
+/* Call as a verb. Keep as short as possible */
+"button_call" = "拨打";
+
+/* General cancel action */
+"button_cancel" = "取消";
+
+/* Change options. Keep as short as possible */
+"button_change-option" = "改变选择";
+
+/* Change(verb) server. Keep as short as possible */
+"button_change-server" = "改变服务器";
+
+/* Chat as a verb. Keep as short as possible */
+"button_chat" = "聊天";
+
+/* Choose existing (photo). 'Photo' is already mentioned in other UI element. */
+"button_choose-existing-photo" = "选择已有照片";
+
+/* Clean data. Clean as a verb. */
+"button_clean-data" = "清除数据";
+
+/* General Confirm button label */
+"button_confirm" = "确认";
+
+/* Connect. Keep as short as possible */
+"button_connect" = "连接";
+
+/* Create. Keep as short as possible */
+"button_create" = "创建";
+
+/* General delete action */
+"button_delete" = "取消";
+
+/* Disconnect. Keep as short as possible */
+"button_disconnect" = "断开连接";
+
+/* Keep as short as possible */
+"button_do-not-ask-again" = "不再询问";
+
+/* Keep as short as possible */
+"button_do-not-show-this-again" = "不再显示此消息";
+
+/* The translation should be as short as possible. */
+"button_done" = "完成";
+
+/* Edit(verb). Keep as short as possible */
+"button_edit" = "修改";
+
+/* Exit(verb) room. Keep as short as possible */
+"button_exit-room" = "离开房间";
+
+/* Basically show full info. Keep as short as possible */
+"button_full-info" = "完整信息";
+
+/* In this context this is shown outside the app and this action should bring user back to app */
+"button_go-to-app" = "去应用程序";
+
+/* Keep as short as possible */
+"button_go-to-appstore" = "去应用程序商店";
+
+/* Hang up/finish call. Keep as short as possible */
+"button_hang-up" = "挂断";
+
+/* Ignore(verb). Keep as short as possible */
+"button_ignore" = "忽视";
+
+/* Button to accept the use of a spreedbox. */
+"button_intial-notification-screen_use-spreedbox" = "原始通知屏幕使用spreedbox";
+
+/* Button to accept the use of the Spreed.ME service. */
+"button_intial-notification-screen_use-spreedme" = "原始通知屏幕使用spreedme";
+
+/* Basically show more options. Keep as short as possible */
+"button_more-option" = "更多选择";
+
+/* General OK button label */
+"button_ok" = "好的";
+
+/* Read(verb) message. Keep as short as possible */
+"button_read-message" = "读消息";
+
+/* Register(verb) */
+"button_register" = "注册";
+
+/* Reject(verb). Keep as short as possible */
+"button_reject" = "拒绝";
+
+/* Reject(verb) call(noun). Keep as short as possible */
+"button_reject-call" = "拒绝呼叫";
+
+/* Remove contact */
+"button_remove-contact" = "删除联系人";
+
+/* Reset as verb here */
+"button_reset-app" = "应用程序重新设置";
+
+/* Room chat. Keep as short as possible */
+"button_room-chat" = "聊天室聊天";
+
+/* Used when some error happened and user is presented with message about error but can only close message, since no other action possible */
+"button_sad-ok" = "只能关闭";
+
+/* Please keep as short as possible. */
+"button_send" = "发送";
+
+/* Message is a chat message. */
+"button_send-message" = "发送消息";
+
+/* Set some value */
+"button_set" = "设置";
+
+/* Share a file */
+"button_share-file" = "分享文件";
+
+/* Share my location */
+"button_share-location" = "分享位置";
+
+/* Share(verb) room. Keep as short as possible */
+"button_share-room" = "分享空间";
+
+/* Share with a friend */
+"button_share-room-friend" = "与朋友分享房间";
+
+/* Share with a user of this Spreedbox */
+"button_share-room-spreedboxuser" = "与spreedbox的用户分享房间";
+
+/* Sign in. Keep as short as possible */
+"button_sign-in" = "签到";
+
+/* Sign(verb) me in. Keep as short as possible */
+"button_sign-me-in" = "让我签到";
+
+/* Sign out. Keep as short as possible */
+"button_sign-out" = "退出";
+
+/* Do not trust. Please keep as short as possible */
+"button_ssl_do-not-trust" = "请勿相信";
+
+/* Trust this certificate. Please keep as short as possible */
+"button_ssl_trust-certificate" = "信用证书";
+
+/* Stop(verb) calling. Keep as short as possible */
+"button_stop-calling" = "停止呼叫";
+
+/* Take a photo */
+"button_take-photo" = "拍照片";
+
+/* Tap(verb) to view screen(screensharing enabled by remote user) */
+"button_tap-to-view-shared-screen" = "点击看分享屏幕";
+
+/* Video answer(verb). Keep as short as possible */
+"button_video-answer" = "回答视频";
+
+/* Call as a noun. */
+"button_video-call" = "视屏呼叫";
+
+/* In this context this is shown outside the app and this action should bring user back to app */
+"button_view-in-the-app" = "回到应用程序内查看";
+
+/* Call as a noun. */
+"button_voice-call" = "语音拨打";
+
+/* General YES button label */
+"button_yes" = "好的";
+
+/* Part of the text to present when app user is calling to another user(Calling username). You can move '%@' but make sure not to delete it. */
+"callview_label-arg1_user-is-calling-to-other-user" = "用户％@正在拨打另外一个用户";
+
+/* Part of the text to present when user is in the call(empty_string username). Probably should be zero length string for any language. You can move '%@' but make sure not to delete it. */
+"callview_label-arg1_user-is-connected" = "用户%@正在拨打";
+
+/* Part of the text to present when user is connecting to the current call(Calling username). This can happen when user was in call an due to temporary problems with internet call is interrupted. You can move '%@' but make sure not to delete it. */
+"callview_label-arg1_user-is-connecting" = "用户正在连接";
+
+/* Part of the text to present when app user is receiving incoming call from another user(Incoming call from username). You can move '%@' but make sure not to delete it. */
+"callview_label-arg1_user-is-receiving-incoming-call" = "用户%@正在接收拨入呼叫";
+
+/* Text to present when app user is disconnected and connection failed beyond repairment. */
+"callview_label_connection-failed" = "连接失败";
+
+/* Text to present when app user is disconnected due to network problems or due to other reasons. */
+"callview_label_user-is-disconnected" = "用户断开连接";
+
+/* Full String is composed like: Username1, username2 are typing… You can change position of %@ in the string but you should keep it */
+"label-arg1_are-typing-ellipsis" = "%@正在输入";
+
+/* You can change place of '%@' to better match the language of translation, but you should not remove it from string */
+"label-arg1_is-calling-you" = "%@正在呼叫";
+
+/* Full String is composed like: Username is typing… You can change position of %@ in the string but you should keep it */
+"label-arg1_is-typing-ellipsis" = "%@正在呼叫";
+
+/* You can change place of '%@' to better match the language of translation, but you should not remove it from string */
+"label-arg1_missed-call-from" = "错过来自%@的呼叫";
+
+/* Full String is composed like: 10 unread messages. You can change position of %d in the string but you should keep it */
+"label-arg1_unread-messages-plural" = "%d未读信息";
+
+/* Full String is composed like: 1 unread messages. You can change position of %d in the string but you should keep it */
+"label-arg1_unread-messages-singular" = "%d未读信息";
+
+/* Active call(noun) */
+"label_active-call" = "活动的呼叫";
+
+/* Advanced settings */
+"label_advanced-settings" = "高级设置";
+
+/* Application settings */
+"label_application-settings" = "应用程序设置";
+
+/* Used for settings and general naming */
+"label_background" = "背景";
+
+/* Camera (recording device) */
+"label_camera" = "相机";
+
+/* Chats(noun) */
+"label_chat-plural" = "聊天";
+
+/* Chat(noun) */
+"label_chat-singular" = "聊天";
+
+/* Connected */
+"label_connected" = "已连接";
+
+/* Connecting */
+"label_connecting" = "正在连接";
+
+/* Connecting… */
+"label_connecting-ellipsis" = "连接";
+
+/* Contact requests */
+"label_contact-requests" = "连接请求";
+
+/* Contacts of the user */
+"label_contacts" = "联系人";
+
+/* Default room. Room with empty name whihc was the default place user was put after login. */
+"label_default-room-name" = "原始空间";
+
+/* Disconnected */
+"label_disconnected" = "已断开连接";
+
+/* Enter an expiration date */
+"label_enter-expiration-time" = "输入过期日期";
+
+/* Enter a name */
+"label_enter-friend-name" = "输入朋友名字";
+
+/* Enter a room name */
+"label_enter-room-name" = "输入房间名字";
+
+/* Placeholder of textfield for entering server url */
+"label_enter-server-url" = "输入服务器链接";
+
+/* Placeholder of textfield for Spreedbox address */
+"label_enter-spreedbox-address" = "输入spreed盒地址 ";
+
+/* Message shows continuous process of establishing connection */
+"label_establishing-connection" = "正在建立连接";
+
+/* Computer files. */
+"label_file-plural" = "文件";
+
+/* Computer file. */
+"label_file-singular" = "文件";
+
+/* FPS=Frames per second. */
+"label_fps" = "画面更新率";
+
+/* Geolocation */
+"label_geolocation" = "地理位置";
+
+/* In-app documents directory */
+"label_in-app-documents-directory" = "应用程序内目录";
+
+/* I believe colon should be preserved. */
+"label_incoming-file" = "收到的文件";
+
+/* Link for information about the Spreedbox. */
+"label_intial-notification-screen_spreedbox-link" = "原始通知屏幕spreed盒链接";
+
+/* States */
+"label_led-states" = "led状态";
+
+/* License */
+"label_licenses" = "执照";
+
+/* Text for activity indicator */
+"label_loading-screensharing" = "正在加载屏幕分享";
+
+/* Text on login screen, when user taps it he/she is taken to create account screen */
+"label_login-screen_create-account-prompt-text" = "还未有spreed登录名和密码？";
+
+/* Text on login screen, when user taps it he/she is taken to reset password screen */
+"label_login-screen_reset-password-prompt-text" = "登录有问题？";
+
+/* Me. Personal pronoun as object */
+"label_me" = "我";
+
+/* Missed calls */
+"label_missed-calls" = "错过的呼叫";
+
+/* You have not added any user as a contact */
+"label_no-contacts" = "还没有联系人";
+
+/* No data */
+"label_no-data" = "无数据";
+
+/* You have not received any messages or missed calls. */
+"label_no-messages-no-missed-calls" = "无消息无呼叫";
+
+/* Press + to add and visit new rooms */
+"label_no-rooms" = "还没有房间";
+
+/* No one else in this room */
+"label_no-users-in-room" = "无用户在房间内";
+
+/* Share this room with your friends to meet them here */
+"label_no-users-more-info" = "无更多用户信息";
+
+/* Notify about updates. Should user be notified that there is a new application version */
+"label_notify-about-updates" = "通知我更新";
+
+/* I believe colon should be preserved. */
+"label_outgoing-file" = "发出的文件";
+
+/* Own spreed mode name. Probably shouldn't be translated. Depends on marketing */
+"label_own-spreed-mode" = "own spreed模式";
+
+/* Password */
+"label_password" = "密码";
+
+/* User device photo library */
+"label_photo-library" = "相册";
+
+/* Generic 'please wait' */
+"label_please-wait" = "请等待";
+
+/* Generic 'please wait…' */
+"label_please-wait-ellipsis" = "请等待%@";
+
+/* Received as adjective */
+"label_received-call" = "收到的呼叫";
+
+/* Received contact requests. */
+"label_received-contact-requests" = "收到的联系请求";
+
+/* Received data. Received as adjective. */
+"label_received-data" = "收到的数据";
+
+/* Request status: Delivered */
+"label_request-status_delivered" = "请求已发出";
+
+/* Request status: Rejected */
+"label_request-status_rejected" = "请求被拒绝";
+
+/* Request status: Seen */
+"label_request-status_seen" = "请求状态已看";
+
+/* Request status: Sent */
+"label_request-status_sent" = "请求状态已发送";
+
+/* Room name */
+"label_room-name" = "房间名字";
+
+/* Screen sharing */
+"label_screen-sharing" = "屏幕分享";
+
+/* Text for activity indicator */
+"label_sending-current-location" = "发送当前位置";
+
+/* Sent contact requests */
+"label_sent-contact-requests" = "发送请求信息";
+
+/* Sent data. Sent as adjective. */
+"label_sent-data" = "已发送的数据";
+
+/* Server settings */
+"label_server-settings" = "服务器设置";
+
+/* Server URL */
+"label_server-url" = "服务器链接";
+
+/* Settings */
+"label_settings" = "设置";
+
+/* Advanced application settings */
+"label_settings_advanced" = "高级设置";
+
+/* This should be a name as it is shown in system Settings app on iOS */
+"label_settings_ios_camera" = "设置ios摄像头";
+
+/* This should be a name as it is shown in system Settings app on iOS */
+"label_settings_ios_location-services" = "位置服务";
+
+/* This should be a name as it is shown in system Settings app on iOS */
+"label_settings_ios_microphone" = "设置ios麦克风";
+
+/* This should be a name as it is shown in system Settings app on iOS */
+"label_settings_ios_privacy" = "隐私";
+
+/* This should be a name as it is shown in system Settings app on iOS */
+"label_settings_ios_settings" = "设置";
+
+/* Setup(verb) server */
+"label_setup-server" = "设置服务器";
+
+/* This string is used in critical case as a user name when for some reason we couldn't get user name. It shouldn't ever happen in normal working app. hmm… some ghost is typing */
+"label_some-ghost" = "某人正在输入";
+
+/* Spreedbox address */
+"label_spreedbox-address" = "spreedbox地址";
+
+/* Spreedbox mode name. Probably shouldn't be translated. Depends on marketing */
+"label_spreedbox-mode" = "spreedbox模式";
+
+/* Setup(verb) Spreedbox */
+"label_spreedbox-server" = "spreedbox服务器";
+
+/* Spreedbox settings */
+"label_spreedbox-settings" = "spreedbox设置";
+
+/* Certificates */
+"label_ssl_certificate-plural" = "执照";
+
+/* When cert expires */
+"label_ssl_expires" = "过期";
+
+/* MD5 fingerprint of cert */
+"label_ssl_fingerpring-md5" = "MD5指纹";
+
+/* SHA1 fingerprint of cert */
+"label_ssl_fingerprint-sha1" = "SHA1指纹";
+
+/* Issuer of the certificate */
+"label_ssl_issuer" = "发行者";
+
+/* Not supported yet */
+"label_ssl_not-supported-yet" = "未支持";
+
+/* Public key of cert */
+"label_ssl_public-key" = "公共钥匙";
+
+/* Algorithm */
+"label_ssl_public-key-algorithm" = "公共钥匙演算法";
+
+/* Serial number of certificate */
+"label_ssl_serial-number" = "序列号";
+
+/* Subject common name, as defined for SSL certs */
+"label_ssl_subject-cn" = "主题";
+
+/* Version of cert */
+"label_ssl_version" = "版本";
+
+/* Status message users sometimes make as a subtitle to their name. Like current playing song or witty quote */
+"label_status" = "状态";
+
+/* Total data. Total as adjective */
+"label_total-data" = "全部数据";
+
+/* Trusted SSL store. A place where trusted SSL/TLS certificates are stored. */
+"label_trusted-ssl-store" = "信任的传输层协议商店";
+
+/* Buddy is offline */
+"label_user-is-offline" = "用戶不在线";
+
+/* Users */
+"label_user-plural" = "用户";
+
+/* User */
+"label_user-singular" = "用户";
+
+/* Table view section title for calling related operations performed by user. */
+"label_user-view_call" = "呼叫";
+
+/* Table view section title for chatting related operations performed by user. */
+"label_user-view_chat" = "聊天";
+
+/* Table view section title for contacts related operations performed by user. */
+"label_user-view_contacts" = "联系人";
+
+/* Generating Temporary Password */
+"label_user-view_generating-temporary-password" = "产生临时密码";
+
+/* Table view row title or alert title for showing that contact's sessions are being retrieved. */
+"label_user-view_retrieving-contact-sessions" = "回收联系人";
+
+/* Retrieving LED configuration */
+"label_user-view_retrieving-led-conf" = "重收回Led设置 ";
+
+/* Username label. For login. */
+"label_username" = "用户名";
+
+/* User's profile */
+"label_users-profile" = "用户资料";
+
+/* Video */
+"label_video" = "视屏";
+
+/* User has 'muted' his video and doesn't send it. Probably it can be 'muted' by the app in some cases. */
+"label_video-is-turned-off" = "视屏被关掉";
+
+/* Video quality */
+"label_video-quality" = "视屏质量";
+
+/* Probably should left as HD but maybe some languages use ohter idiom. */
+"label_video-settings_720p-quality-short" = "720p";
+
+/* Probably should left as Full HD but maybe some languages use ohter idiom. */
+"label_video-settings_1080p-quality-short" = "1080p";
+
+/* I believe it should be kept lowercase. */
+"label_video-settings_auto" = "自动";
+
+/* Translation should be the same as label_video-settings_high-quality but shortened. */
+"label_video-settings_high-quality-short" = "高质量";
+
+/* Translation should be the same as label_video-settings_low-quality but shortened. */
+"label_video-settings_low-quality-short" = "低质量";
+
+/* I beleive colon should be preserved. */
+"label_you-have-received-location" = "位置已取得";
+
+/* I beleive colon should be preserved. */
+"label_you-have-shared-location" = "你已分享你的位置";
+
+/* Your name */
+"label_your-name" = "您的名字";
+
+/* Username */
+"label_your-owncloud-username" = "用户名";
+
+/* Your picture. User's picture. */
+"label_your-picture" = "您的图像";
+
+/* Your Spreed Name */
+"label_your-spreed-name" = "您的Spreed名字";
+
+/* This string is used in conjunction with user name: username. Call has ended. */
+"message_body_call-alert-view_call-has-ended" = "呼叫被终止";
+
+/* This string is used in conjunction with user name: username is busy. */
+"message_body_call-alert-view_is-busy" = "忙碌中";
+
+/* This string is used in conjunction with user name: username is not answering. */
+"message_body_call-alert-view_is-not-answering" = "用户名无应答";
+
+/* This string is used in conjunction with user name: username rejected your call. */
+"message_body_call-alert-view_rejected-your-call" = "用户名拒绝了您的呼叫";
+
+/* Do you want to remove all messages in this chat? */
+"message_body_clear-chat-messages" = "清除聊天信息";
+
+/* Do you want to log out? */
+"message_body_confirm-logout" = "确认退出登录";
+
+/* This string is used in conjunction with user name: username is now your contact. */
+"message_body_contact-alert-view_accepted-contact-request" = "用户名现在已是您的联系人";
+
+/* This string is used in conjunction with user name: username rejected your contact request. */
+"message_body_contact-alert-view_rejected-contact-request" = "用户名取消您的连接请求";
+
+/* This string is used in conjunction with user name: username wants to become your contact. */
+"message_body_contact-alert-view_sent-contact-request" = "用户名想成为您的联系人";
+
+/* Spreed Name or password is incorrect. */
+"message_body_login-failed_incorrect-spreed-name-or-password" = "Spreed名字或是密码不正确";
+
+/* Shown when user's device doesn't have camera or cannot work with it */
+"message_body_no-camera" = "请使用一个相机已启用的设备";
+
+/* Are you sure that you want to clean all data stored in your app? */
+"message_body_reset-app-warning" = "您确定要清除所有存在应用程序里面的数据吗";
+
+/* Meet me here: https://spreed.me/ */
+"message_body_share-room" = "在这见面";
+
+/* General message without specifying reason */
+"message_body_sign-in-failed_reason-unspecified" = "登录过程已失败";
+
+/* Do you want to stop sharing this file? */
+"message_body_stop-sharing-file" = "停止分享文件";
+
+/* Could not generate a temporary password */
+"message_body_tp-error" = "tp错误";
+
+/* Alert message for showing that contact's sessions retrieving has failed. */
+"message_body_user-view_failed-retrieving-contact-sessions" = "请检查您的网络连接";
+
+/* There are no files in this directory. */
+"message_no-files-in-this-directory" = "目录中无文件";
+
+/* Meet me here */
+"message_subject_share-room" = "在这见面";
+
+/* 'device' is not enabled for 'appname'. You can move around '%@' but make sure you have 2 of them. */
+"message_title-arg2_camera-or-mic-disabled" = "摄像头或麦克风被禁用";
+
+/* 'Location services' are not enabled for 'appname'. You can move around '%@' but make sure you have 2 of them. */
+"message_title-arg2_location-services-disabled" = "%1$未被%2$使用";
+
+/* App update available */
+"message_title_application-update-available" = "应用程序更新存在";
+
+/* Call has failed. This only can happen in rare ocasions and usually doesn't have any additional info. */
+"message_title_call-failed" = "呼叫失败";
+
+/* Warning before changing app mode */
+"message_title_change-app-mode-warning" = "您将要改变应用程序模式";
+
+/* Clear(verb) chat */
+"message_title_clear-chat-messages" = "清除聊天信息";
+
+/* Could not obtain current location */
+"message_title_could-not-obtain-current-location" = "无法取得当前位置";
+
+/* There is no camera on device */
+"message_title_no-camera" = "无相机";
+
+/* Warning before reseting the app */
+"message_title_reset-app-warning" = "警告";
+
+/* Share a file. Shown as a title to some action element like action sheet or alert which then gives user a choice from where to share a file. */
+"message_title_share-file" = "分享文件";
+
+/* Sign in failed */
+"message_title_sign-in-failed" = "登录失败";
+
+/* Stop sharing file */
+"message_title_stop-sharing-file" = "停止分享文件";
+
+/* User is already in the call */
+"message_title_user-in-call" = "用户已在呼叫";
+
+/* Alert title for showing that contact's sessions retrieving has failed. */
+"message_title_user-view_failed-retrieving-contact-sessions" = "回收联系人失败";
+
+/* Label for the checkbox of 'clean data when going to background' mode */
+"mode_label_clears-data" = "清除数据";
+
+/* Label for the checkbox of 'disconnected in background' mode */
+"mode_label_diconnected-in-background" = "从服务器断开连接";
+
+/* Place holder for name */
+"placeholder_name" = "名字";
+
+/* This placeholder message encourages user to share his current status. Like current playing song or witty quote */
+"placeholder_status" = "状态";
+
+/* Background settings screen title */
+"screen_title_background-settings" = "背景";
+
+/* Registration */
+"screen_title_create-account" = "创建账户";
+
+/* Data usage */
+"screen_title_data-usage" = "数据使用";
+
+/* LED Control */
+"screen_title_led-control" = "Led控制";
+
+/* Received */
+"screen_title_received" = "已收到";
+
+/* Reset Password */
+"screen_title_reset-password" = "重置密码";
+
+/* Sent */
+"screen_title_sent" = "已发送";
+
+/* Total */
+"screen_title_total" = "全部";
+
+/* Preferences. This should be small enough to fit into tab. ~11 Latin symbols fit. */
+"tabbar-item_title" = "偏爱";
+
+/* This should be small enough to fit into tab. ~11 Latin symbols fit. */
+"tabbar-item_title_files" = "文件";
+
+/* Recent chats/events/missed calls. This should be small enough to fit into tab. ~11 Latin symbols fit. */
+"tabbar-item_title_recent" = "最近";
+
+/* This should be small enough to fit into tab. ~11 Latin symbols fit. */
+"tabbar-item_title_rooms" = "房间";
+
+/* This should be small enough to fit into tab. ~11 Latin symbols fit. */
+"tabbar-item_title_settings" = "设置";
+
+/* Base for generating display user name when user has not setup his name. Generated name look like Anonymus 1 or Anonymus 134 */
+"user_base-for-generated-display-user-name" = "匿名";
+

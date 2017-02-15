@@ -1,0 +1,10 @@
+/* Localized versions of Info.plist keys */
+
+/* Localized version of camera usage purpose for Info.plist */
+NSCameraUsageDescription = "Used in video calls";
+/* Localized version of microphone usage purpose for Info.plist */
+NSMicrophoneUsageDescription = "Used in voice and video calls";
+/* Localized version of photo library usage purpose for Info.plist */
+NSPhotoLibraryUsageDescription = "Used to share your photos and videos";
+/* Localized version of location services purpose for Info.plist */
+NSLocationWhenInUseUsageDescription = "Used to share your current location";

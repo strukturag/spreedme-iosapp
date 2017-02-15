@@ -1,0 +1,708 @@
+/* Show something about something. Keep as short as possible */
+"button_about" = "Concernant";
+
+/* Accept(verb). Keep as short as possible */
+"button_accept" = "Accepter";
+
+/* Add as a contact */
+"button_add-contact" = "Ajouter comme contact";
+
+/* Call as a noun. */
+"button_add-to-call" = "Ajouter à un appel";
+
+/* Answer(verb). Keep as short as possible */
+"button_answer" = "Répondre";
+
+/* Call as a verb. Keep as short as possible */
+"button_call" = "Appeler";
+
+/* General cancel action */
+"button_cancel" = "Annuler";
+
+/* Change options. Keep as short as possible */
+"button_change-option" = "Changer d'options";
+
+/* Change(verb) server. Keep as short as possible */
+"button_change-server" = "Changer de serveur";
+
+/* Chat as a verb. Keep as short as possible */
+"button_chat" = "Tchater";
+
+/* Choose existing (photo). 'Photo' is already mentioned in other UI element. */
+"button_choose-existing-photo" = "En choisir une existante ";
+
+/* Clean data. Clean as a verb. */
+"button_clean-data" = "Nettoyer les données";
+
+/* General Confirm button label */
+"button_confirm" = "Confirmer";
+
+/* Connect. Keep as short as possible */
+"button_connect" = "Se connecter";
+
+/* Create. Keep as short as possible */
+"button_create" = "Créer";
+
+/* General delete action */
+"button_delete" = "Supprimer";
+
+/* Disconnect. Keep as short as possible */
+"button_disconnect" = "Se déconnecter";
+
+/* Keep as short as possible */
+"button_do-not-ask-again" = "Ne plus demander";
+
+/* Keep as short as possible */
+"button_do-not-show-this-again" = "Ne plus afficher";
+
+/* The translation should be as short as possible. */
+"button_done" = "Exécuté";
+
+/* Edit(verb). Keep as short as possible */
+"button_edit" = "Modifier";
+
+/* Exit(verb) room. Keep as short as possible */
+"button_exit-room" = "Quitter la salle";
+
+/* Basically show full info. Keep as short as possible */
+"button_full-info" = "Informations complètes";
+
+/* In this context this is shown outside the app and this action should bring user back to app */
+"button_go-to-app" = "Accéder à l'application";
+
+/* Keep as short as possible */
+"button_go-to-appstore" = "Accéder à l'App Store";
+
+/* Hang up/finish call. Keep as short as possible */
+"button_hang-up" = "Raccrocher";
+
+/* Ignore(verb). Keep as short as possible */
+"button_ignore" = "Ignorer";
+
+/* Button to accept the use of a spreedbox. */
+"button_intial-notification-screen_use-spreedbox" = "Utiliser la Spreedbox";
+
+/* Button to accept the use of the Spreed.ME service. */
+"button_intial-notification-screen_use-spreedme" = "Utiliser le service Spreed.ME";
+
+/* Basically show more options. Keep as short as possible */
+"button_more-option" = "Montrer plus d'options";
+
+/* General OK button label */
+"button_ok" = "OK";
+
+/* Read(verb) message. Keep as short as possible */
+"button_read-message" = "Lire le message";
+
+/* Register(verb) */
+"button_register" = "S'inscrire";
+
+/* Reject(verb). Keep as short as possible */
+"button_reject" = "Rejeter";
+
+/* Reject(verb) call(noun). Keep as short as possible */
+"button_reject-call" = "Rejeter l'appel";
+
+/* Remove contact */
+"button_remove-contact" = "Supprimer le contact";
+
+/* Reset as verb here */
+"button_reset-app" = "Réinitialiser l'application";
+
+/* Room chat. Keep as short as possible */
+"button_room-chat" = "Salle de tchat";
+
+/* Used when some error happened and user is presented with message about error but can only close message, since no other action possible */
+"button_sad-ok" = "OK";
+
+/* Please keep as short as possible. */
+"button_send" = "Envoyer";
+
+/* Message is a chat message. */
+"button_send-message" = "Envoyer un message";
+
+/* Set some value */
+"button_set" = "Fixer ";
+
+/* Share a file */
+"button_share-file" = "Partager un fichier";
+
+/* Share my location */
+"button_share-location" = "Partager ma localisation";
+
+/* Share(verb) room. Keep as short as possible */
+"button_share-room" = "Partager une salle";
+
+/* Share with a friend */
+"button_share-room-friend" = "Partager avec un ami";
+
+/* Share with a user of this Spreedbox */
+"button_share-room-spreedboxuser" = "Partager avec un utilisateur de cette Spreedbox";
+
+/* Sign in. Keep as short as possible */
+"button_sign-in" = "Se connecter";
+
+/* Sign(verb) me in. Keep as short as possible */
+"button_sign-me-in" = "Me connecter";
+
+/* Sign out. Keep as short as possible */
+"button_sign-out" = "Se déconnecter";
+
+/* Do not trust. Please keep as short as possible */
+"button_ssl_do-not-trust" = "Ne pas faire confiance";
+
+/* Trust this certificate. Please keep as short as possible */
+"button_ssl_trust-certificate" = "Faire confiance à ce certificat";
+
+/* Stop(verb) calling. Keep as short as possible */
+"button_stop-calling" = "Interrompre l'appel";
+
+/* Take a photo */
+"button_take-photo" = "Prendre une photo";
+
+/* Tap(verb) to view screen(screensharing enabled by remote user) */
+"button_tap-to-view-shared-screen" = "Appuyer pour voir l'écran";
+
+/* Video answer(verb). Keep as short as possible */
+"button_video-answer" = "Répondre par vidéo";
+
+/* Call as a noun. */
+"button_video-call" = "Appel vidéo";
+
+/* In this context this is shown outside the app and this action should bring user back to app */
+"button_view-in-the-app" = "Regarder avec l'application";
+
+/* Call as a noun. */
+"button_voice-call" = "Appel vocal";
+
+/* General YES button label */
+"button_yes" = "OUI";
+
+/* Part of the text to present when app user is calling to another user(Calling username). You can move '%@' but make sure not to delete it. */
+"callview_label-arg1_user-is-calling-to-other-user" = "Appel vers  %@ en cours";
+
+/* Part of the text to present when user is in the call(empty_string username). Probably should be zero length string for any language. You can move '%@' but make sure not to delete it. */
+"callview_label-arg1_user-is-connected" = "%@";
+
+/* Part of the text to present when user is connecting to the current call(Calling username). This can happen when user was in call an due to temporary problems with internet call is interrupted. You can move '%@' but make sure not to delete it. */
+"callview_label-arg1_user-is-connecting" = "Appel vers %@ en cours";
+
+/* Part of the text to present when app user is receiving incoming call from another user(Incoming call from username). You can move '%@' but make sure not to delete it. */
+"callview_label-arg1_user-is-receiving-incoming-call" = "Appel entrant de %@";
+
+/* Text to present when app user is disconnected and connection failed beyond repairment. */
+"callview_label_connection-failed" = "La connexion a échoué";
+
+/* Text to present when app user is disconnected due to network problems or due to other reasons. */
+"callview_label_user-is-disconnected" = "Déconnecté";
+
+/* Full String is composed like: Username1, username2 are typing… You can change position of %@ in the string but you should keep it */
+"label-arg1_are-typing-ellipsis" = "%@ sont en train de taper sur le clavier";
+
+/* You can change place of '%@' to better match the language of translation, but you should not remove it from string */
+"label-arg1_is-calling-you" = "%@ vous appelle";
+
+/* Full String is composed like: Username is typing… You can change position of %@ in the string but you should keep it */
+"label-arg1_is-typing-ellipsis" = "%@ est en train de taper sur le clavier";
+
+/* You can change place of '%@' to better match the language of translation, but you should not remove it from string */
+"label-arg1_missed-call-from" = "Appel manqué de %@";
+
+/* Full String is composed like: 10 unread messages. You can change position of %d in the string but you should keep it */
+"label-arg1_unread-messages-plural" = "%d messages non lus";
+
+/* Full String is composed like: 1 unread messages. You can change position of %d in the string but you should keep it */
+"label-arg1_unread-messages-singular" = "%d message non lu";
+
+/* Active call(noun) */
+"label_active-call" = "Activer l'appel";
+
+/* Advanced settings */
+"label_advanced-settings" = "Paramètres avancés";
+
+/* Application settings */
+"label_application-settings" = "Paramètres d'application";
+
+/* Used for settings and general naming */
+"label_background" = "Arrière-plan";
+
+/* Camera (recording device) */
+"label_camera" = "Caméra";
+
+/* Chats(noun) */
+"label_chat-plural" = "Tchats";
+
+/* Chat(noun) */
+"label_chat-singular" = "Tchat";
+
+/* Connected */
+"label_connected" = "Connecté";
+
+/* Connecting */
+"label_connecting" = "Connexion en cours";
+
+/* Connecting… */
+"label_connecting-ellipsis" = "Connexion en cours...";
+
+/* Contact requests */
+"label_contact-requests" = "Demandes de contact";
+
+/* Contacts of the user */
+"label_contacts" = "Contacts";
+
+/* Default room. Room with empty name whihc was the default place user was put after login. */
+"label_default-room-name" = "Salle par défaut";
+
+/* Disconnected */
+"label_disconnected" = "Déconnecté";
+
+/* Enter an expiration date */
+"label_enter-expiration-time" = "Saisissez une date d'expiration";
+
+/* Enter a name */
+"label_enter-friend-name" = "Saisissez un nom";
+
+/* Enter a room name */
+"label_enter-room-name" = "Taper un nom de salle";
+
+/* Placeholder of textfield for entering server url */
+"label_enter-server-url" = "Taper l'URL du serveur";
+
+/* Placeholder of textfield for Spreedbox address */
+"label_enter-spreedbox-address" = "Saisissez l'adresse de la Spreedbox";
+
+/* Message shows continuous process of establishing connection */
+"label_establishing-connection" = "La connexion est en train de se faire";
+
+/* Computer files. */
+"label_file-plural" = "Fichiers";
+
+/* Computer file. */
+"label_file-singular" = "Fichier";
+
+/* FPS=Frames per second. */
+"label_fps" = "IPS";
+
+/* Geolocation */
+"label_geolocation" = "Géolocalisation";
+
+/* In-app documents directory */
+"label_in-app-documents-directory" = "Dossier documents";
+
+/* I believe colon should be preserved. */
+"label_incoming-file" = "Fichier entrant:";
+
+/* Link for information about the Spreedbox. */
+"label_intial-notification-screen_spreedbox-link" = "Je veux en savoir davantage sur la Spredbox";
+
+/* States */
+"label_led-states" = "Etats";
+
+/* License */
+"label_licenses" = "Licences";
+
+/* Text for activity indicator */
+"label_loading-screensharing" = "Partage d'écran en cours de chargement";
+
+/* Text on login screen, when user taps it he/she is taken to create account screen */
+"label_login-screen_create-account-prompt-text" = "Vous n'avez pas encore de Nom Spreed ni de mot de passe ?";
+
+/* Text on login screen, when user taps it he/she is taken to reset password screen */
+"label_login-screen_reset-password-prompt-text" = "Vous rencontrez des problèmes pour vous connecter ?";
+
+/* Me. Personal pronoun as object */
+"label_me" = "Moi";
+
+/* Missed calls */
+"label_missed-calls" = "Appels manqués";
+
+/* You have not added any user as a contact */
+"label_no-contacts" = "Vous n'avez ajouté aucun'utilisateur en tant que contact";
+
+/* No data */
+"label_no-data" = "Aucune donnée";
+
+/* You have not received any messages or missed calls. */
+"label_no-messages-no-missed-calls" = "Vous n'avez reçu aucun message ni appel manqué.";
+
+/* Press + to add and visit new rooms */
+"label_no-rooms" = "Appuyez sur + pour ajouter de nouvelles salles et les visiter";
+
+/* No one else in this room */
+"label_no-users-in-room" = "Il n'y a personne d'autre dans cette salle";
+
+/* Share this room with your friends to meet them here */
+"label_no-users-more-info" = "Partagez cette salle avec vos amis pour les rencontrer";
+
+/* Notify about updates. Should user be notified that there is a new application version */
+"label_notify-about-updates" = "M'avertir des nouvelles mises à jour";
+
+/* I believe colon should be preserved. */
+"label_outgoing-file" = "Vous partagez ce fichier:";
+
+/* Own spreed mode name. Probably shouldn't be translated. Depends on marketing */
+"label_own-spreed-mode" = "En mode Spreed";
+
+/* Password */
+"label_password" = "Mot de passe";
+
+/* User device photo library */
+"label_photo-library" = "Photothèqe";
+
+/* Generic 'please wait' */
+"label_please-wait" = "Patientez s'il vous plaît";
+
+/* Generic 'please wait…' */
+"label_please-wait-ellipsis" = "Patientez s'il vous plaît...";
+
+/* Received as adjective */
+"label_received-call" = "Appel reçu";
+
+/* Received contact requests. */
+"label_received-contact-requests" = "Demandes de contact reçues";
+
+/* Received data. Received as adjective. */
+"label_received-data" = "Données reçues";
+
+/* Request status: Delivered */
+"label_request-status_delivered" = "Statut demandé: Fourni";
+
+/* Request status: Rejected */
+"label_request-status_rejected" = "Statut demandé: Rejeté";
+
+/* Request status: Seen */
+"label_request-status_seen" = "Statut demandé: Vu";
+
+/* Request status: Sent */
+"label_request-status_sent" = "Statut demandé: Envoyé";
+
+/* Room name */
+"label_room-name" = "Nom de la salle";
+
+/* Screen sharing */
+"label_screen-sharing" = "Partage d'écran";
+
+/* Text for activity indicator */
+"label_sending-current-location" = "Localisation actuelle en cours d'envoi";
+
+/* Sent contact requests */
+"label_sent-contact-requests" = "Envoyer des demandes de contact";
+
+/* Sent data. Sent as adjective. */
+"label_sent-data" = "Données envoyées";
+
+/* Server settings */
+"label_server-settings" = "Paramètres du serveur";
+
+/* Server URL */
+"label_server-url" = "URL du serveur";
+
+/* Settings */
+"label_settings" = "Paramètres";
+
+/* Advanced application settings */
+"label_settings_advanced" = "Avancé";
+
+/* This should be a name as it is shown in system Settings app on iOS */
+"label_settings_ios_camera" = "Caméra";
+
+/* This should be a name as it is shown in system Settings app on iOS */
+"label_settings_ios_location-services" = "Services de localisation";
+
+/* This should be a name as it is shown in system Settings app on iOS */
+"label_settings_ios_microphone" = "Microphone";
+
+/* This should be a name as it is shown in system Settings app on iOS */
+"label_settings_ios_privacy" = "Confidentialité";
+
+/* This should be a name as it is shown in system Settings app on iOS */
+"label_settings_ios_settings" = "Paramètres";
+
+/* Setup(verb) server */
+"label_setup-server" = "Configurer le serveur";
+
+/* This string is used in critical case as a user name when for some reason we couldn't get user name. It shouldn't ever happen in normal working app. hmm… some ghost is typing */
+"label_some-ghost" = "hmm... il y a un fantôme";
+
+/* Spreedbox address */
+"label_spreedbox-address" = "Adresse de la Spreedbox";
+
+/* Spreedbox mode name. Probably shouldn't be translated. Depends on marketing */
+"label_spreedbox-mode" = "Mode Spreedbox";
+
+/* Setup(verb) Spreedbox */
+"label_spreedbox-server" = "Configurer la Spreedbox";
+
+/* Spreedbox settings */
+"label_spreedbox-settings" = "Paramètres de la Spreedbox";
+
+/* Certificates */
+"label_ssl_certificate-plural" = "Certificats";
+
+/* When cert expires */
+"label_ssl_expires" = "Expire";
+
+/* MD5 fingerprint of cert */
+"label_ssl_fingerpring-md5" = "Empreinte MD5";
+
+/* SHA1 fingerprint of cert */
+"label_ssl_fingerprint-sha1" = "Empreinte SHA1";
+
+/* Issuer of the certificate */
+"label_ssl_issuer" = "Emetteur";
+
+/* Not supported yet */
+"label_ssl_not-supported-yet" = "Pas encore compatible ";
+
+/* Public key of cert */
+"label_ssl_public-key" = "Clé publique";
+
+/* Algorithm */
+"label_ssl_public-key-algorithm" = "Algorythme";
+
+/* Serial number of certificate */
+"label_ssl_serial-number" = "Numéro de série";
+
+/* Subject common name, as defined for SSL certs */
+"label_ssl_subject-cn" = "Insérer le nom commun";
+
+/* Version of cert */
+"label_ssl_version" = "Version";
+
+/* Status message users sometimes make as a subtitle to their name. Like current playing song or witty quote */
+"label_status" = "Statut";
+
+/* Total data. Total as adjective */
+"label_total-data" = "Données totales";
+
+/* Trusted SSL store. A place where trusted SSL/TLS certificates are stored. */
+"label_trusted-ssl-store" = "Fournisseur de certificats SSL de confiance";
+
+/* Buddy is offline */
+"label_user-is-offline" = "Votre contact n'est pas en ligne";
+
+/* Users */
+"label_user-plural" = "Utilisateurs";
+
+/* User */
+"label_user-singular" = "Utilisateur";
+
+/* Table view section title for calling related operations performed by user. */
+"label_user-view_call" = "Appel";
+
+/* Table view section title for chatting related operations performed by user. */
+"label_user-view_chat" = "Tchat";
+
+/* Table view section title for contacts related operations performed by user. */
+"label_user-view_contacts" = "Contacts";
+
+/* Generating Temporary Password */
+"label_user-view_generating-temporary-password" = "Créer un mot de passe temporaire";
+
+/* Table view row title or alert title for showing that contact's sessions are being retrieved. */
+"label_user-view_retrieving-contact-sessions" = "Récupérer le contact";
+
+/* Retrieving LED configuration */
+"label_user-view_retrieving-led-conf" = "Récupérer la configuration LED";
+
+/* Username label. For login. */
+"label_username" = "Nom d'utilisateur";
+
+/* User's profile */
+"label_users-profile" = "Profil";
+
+/* Video */
+"label_video" = "Vidéo";
+
+/* User has 'muted' his video and doesn't send it. Probably it can be 'muted' by the app in some cases. */
+"label_video-is-turned-off" = "La vidéo est désactivée";
+
+/* Video quality */
+"label_video-quality" = "Qualité de la vidéo";
+
+/* Probably should left as HD but maybe some languages use ohter idiom. */
+"label_video-settings_720p-quality-short" = "720p";
+
+/* Probably should left as Full HD but maybe some languages use ohter idiom. */
+"label_video-settings_1080p-quality-short" = "1080p";
+
+/* I believe it should be kept lowercase. */
+"label_video-settings_auto" = "auto";
+
+/* Translation should be the same as label_video-settings_high-quality but shortened. */
+"label_video-settings_high-quality-short" = "haute";
+
+/* Translation should be the same as label_video-settings_low-quality but shortened. */
+"label_video-settings_low-quality-short" = "basse";
+
+/* I beleive colon should be preserved. */
+"label_you-have-received-location" = "Localisation reçue";
+
+/* I beleive colon should be preserved. */
+"label_you-have-shared-location" = "Vous avez partagé votre localisation ";
+
+/* Your name */
+"label_your-name" = "Votre nom";
+
+/* Username */
+"label_your-owncloud-username" = "Nom d'utilisateur";
+
+/* Your picture. User's picture. */
+"label_your-picture" = "Votre photo";
+
+/* Your Spreed Name */
+"label_your-spreed-name" = "Votre nom Spreed";
+
+/* This string is used in conjunction with user name: username. Call has ended. */
+"message_body_call-alert-view_call-has-ended" = "L'appel est fini";
+
+/* This string is used in conjunction with user name: username is busy. */
+"message_body_call-alert-view_is-busy" = "est occupé";
+
+/* This string is used in conjunction with user name: username is not answering. */
+"message_body_call-alert-view_is-not-answering" = "ne répond pas";
+
+/* This string is used in conjunction with user name: username rejected your call. */
+"message_body_call-alert-view_rejected-your-call" = "a rejeté votre appel";
+
+/* Do you want to remove all messages in this chat? */
+"message_body_clear-chat-messages" = "Voulez-vous supprimer tous les messages de ce tchat?";
+
+/* Do you want to log out? */
+"message_body_confirm-logout" = "Voulez vous vous déconnecter?";
+
+/* This string is used in conjunction with user name: username is now your contact. */
+"message_body_contact-alert-view_accepted-contact-request" = "est maintenant votre contact";
+
+/* This string is used in conjunction with user name: username rejected your contact request. */
+"message_body_contact-alert-view_rejected-contact-request" = "a rejeté votre demande de contact";
+
+/* This string is used in conjunction with user name: username wants to become your contact. */
+"message_body_contact-alert-view_sent-contact-request" = "veut faire partie de vos contacts";
+
+/* Spreed Name or password is incorrect. */
+"message_body_login-failed_incorrect-spreed-name-or-password" = "Votre nom Spreed ou votre mot de passe ne sont pas corrects.";
+
+/* Shown when user's device doesn't have camera or cannot work with it */
+"message_body_no-camera" = "Veuillez utiliser un dispositif compatible avec une caméra.";
+
+/* Are you sure that you want to clean all data stored in your app? */
+"message_body_reset-app-warning" = "Etes-vous sûr de vouloir nettoyer toutes les données stockées dans votre appli? ";
+
+/* Meet me here: https://spreed.me/ */
+"message_body_share-room" = "Rendez-vous ici: https://spreed.me/";
+
+/* General message without specifying reason */
+"message_body_sign-in-failed_reason-unspecified" = "Le processus de connexion a échoué";
+
+/* Do you want to stop sharing this file? */
+"message_body_stop-sharing-file" = "Voulez-vous cesser de partager ce fichier?";
+
+/* Could not generate a temporary password */
+"message_body_tp-error" = "N'a pas pu créer un mot de passe temporaire";
+
+/* Alert message for showing that contact's sessions retrieving has failed. */
+"message_body_user-view_failed-retrieving-contact-sessions" = "Veuillez vérifier votre connexion Internet";
+
+/* There are no files in this directory. */
+"message_no-files-in-this-directory" = "Il n'y a pas de fichiers dans ce répertoire.";
+
+/* Meet me here */
+"message_subject_share-room" = "Rendez-vous ici";
+
+/* 'device' is not enabled for 'appname'. You can move around '%@' but make sure you have 2 of them. */
+"message_title-arg2_camera-or-mic-disabled" = "%1$@ n'est pas autorisé pour %2$@\"";
+
+/* 'Location services' are not enabled for 'appname'. You can move around '%@' but make sure you have 2 of them. */
+"message_title-arg2_location-services-disabled" = "%1$@ ne sont pas activés pour %2$@";
+
+/* App update available */
+"message_title_application-update-available" = "La mise à jour de l'appli est disponible";
+
+/* Call has failed. This only can happen in rare ocasions and usually doesn't have any additional info. */
+"message_title_call-failed" = "L'appel a échoué";
+
+/* Warning before changing app mode */
+"message_title_change-app-mode-warning" = "Vous êtes sur le point de changer de mode d'application";
+
+/* Clear(verb) chat */
+"message_title_clear-chat-messages" = "Vider le tchat";
+
+/* Could not obtain current location */
+"message_title_could-not-obtain-current-location" = "N'a pas pu obtenir la localisation actuelle";
+
+/* There is no camera on device */
+"message_title_no-camera" = "Pas de caméra";
+
+/* Warning before reseting the app */
+"message_title_reset-app-warning" = "Avertissement!";
+
+/* Share a file. Shown as a title to some action element like action sheet or alert which then gives user a choice from where to share a file. */
+"message_title_share-file" = "Partager un fichier";
+
+/* Sign in failed */
+"message_title_sign-in-failed" = "La connexion a échoué";
+
+/* Stop sharing file */
+"message_title_stop-sharing-file" = "Cesser de partager le fichier";
+
+/* User is already in the call */
+"message_title_user-in-call" = "L'utilisateur est déjà en ligne";
+
+/* Alert title for showing that contact's sessions retrieving has failed. */
+"message_title_user-view_failed-retrieving-contact-sessions" = "N'a pas réussi à récupérer le contact";
+
+/* Label for the checkbox of 'clean data when going to background' mode */
+"mode_label_clears-data" = "Nettoyer les données ";
+
+/* Label for the checkbox of 'disconnected in background' mode */
+"mode_label_diconnected-in-background" = "Se déconnecter du serveur";
+
+/* Place holder for name */
+"placeholder_name" = "Nom";
+
+/* This placeholder message encourages user to share his current status. Like current playing song or witty quote */
+"placeholder_status" = "Qu'avez-vous en tête en ce moment? ";
+
+/* Background settings screen title */
+"screen_title_background-settings" = "Arrière-plan";
+
+/* Registration */
+"screen_title_create-account" = "Inscription";
+
+/* Data usage */
+"screen_title_data-usage" = "Utilisation des données";
+
+/* LED Control */
+"screen_title_led-control" = "Contrôle LED";
+
+/* Received */
+"screen_title_received" = "Reçu";
+
+/* Reset Password */
+"screen_title_reset-password" = "Réinitialiser le mot de passe";
+
+/* Sent */
+"screen_title_sent" = "Envoyé";
+
+/* Total */
+"screen_title_total" = "Total";
+
+/* Preferences. This should be small enough to fit into tab. ~11 Latin symbols fit. */
+"tabbar-item_title" = "Préférences";
+
+/* This should be small enough to fit into tab. ~11 Latin symbols fit. */
+"tabbar-item_title_files" = "Fichiers";
+
+/* Recent chats/events/missed calls. This should be small enough to fit into tab. ~11 Latin symbols fit. */
+"tabbar-item_title_recent" = "Récents";
+
+/* This should be small enough to fit into tab. ~11 Latin symbols fit. */
+"tabbar-item_title_rooms" = "Salles";
+
+/* This should be small enough to fit into tab. ~11 Latin symbols fit. */
+"tabbar-item_title_settings" = "Paramètres";
+
+/* Base for generating display user name when user has not setup his name. Generated name look like Anonymus 1 or Anonymus 134 */
+"user_base-for-generated-display-user-name" = "Anonyme";
+

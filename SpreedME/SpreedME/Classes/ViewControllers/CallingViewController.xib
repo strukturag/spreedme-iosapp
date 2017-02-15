@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7706" systemVersion="14D136" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="CallingViewController">
+            <connections>
+                <outlet property="airplayView" destination="dVE-ny-M4V" id="e3Q-bm-yM4"/>
+                <outlet property="buttonContainer" destination="V0z-4J-fMv" id="Nay-RB-8gW"/>
+                <outlet property="callAcceptionButtonContainer" destination="lvP-Xb-S4I" id="GVh-sb-KlY"/>
+                <outlet property="cancelOutgoingCallButton" destination="2l2-Pd-vEB" id="Y6L-pB-9jM"/>
+                <outlet property="collectionView" destination="web-HK-GCM" id="Iad-tC-jUb"/>
+                <outlet property="flowLayout" destination="alS-Vb-Zcq" id="wpJ-G2-fDK"/>
+                <outlet property="hangUpButton" destination="tzM-Fh-UrF" id="rPY-Lc-nQb"/>
+                <outlet property="moreOptionsButton" destination="Kuz-kh-yBZ" id="BdP-Jg-vwK"/>
+                <outlet property="muteButton" destination="6NE-1k-rfd" id="3r5-TF-Qrg"/>
+                <outlet property="pickUpButton" destination="34" id="lRd-on-Qjv"/>
+                <outlet property="pickUpVideoButton" destination="x7D-DW-QzL" id="SXu-o9-O58"/>
+                <outlet property="rejectCallButton" destination="IRk-Na-92Z" id="mnL-Ws-I38"/>
+                <outlet property="timeLabel" destination="6QH-CJ-lyR" id="r9I-pn-3z5"/>
+                <outlet property="videoOptionsButton" destination="6uq-bD-aQu" id="6pe-ln-P4k"/>
+                <outlet property="view" destination="1" id="P3v-2Z-MFl"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="1">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <collectionView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" minimumZoomScale="0.0" maximumZoomScale="0.0" dataMode="none" id="web-HK-GCM">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                    <color key="backgroundColor" cocoaTouchSystemColor="scrollViewTexturedBackgroundColor"/>
+                    <inset key="insetFor6xAndEarlier" minX="0.0" minY="20" maxX="0.0" maxY="0.0"/>
+                    <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="alS-Vb-Zcq">
+                        <size key="itemSize" width="90" height="120"/>
+                        <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                        <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                        <inset key="sectionInset" minX="10" minY="10" maxX="10" maxY="10"/>
+                    </collectionViewFlowLayout>
+                    <cells/>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="Cdg-kH-6JO"/>
+                        <outlet property="delegate" destination="-1" id="bRN-2n-qKq"/>
+                    </connections>
+                </collectionView>
+                <label hidden="YES" opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Time" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="6QH-CJ-lyR" customClass="OutlinedLabel">
+                    <rect key="frame" x="120" y="40" width="80" height="21"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
+                    <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <nil key="highlightedColor"/>
+                    <color key="shadowColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <size key="shadowOffset" width="0.0" height="0.0"/>
+                </label>
+                <view contentMode="scaleToFill" id="lvP-Xb-S4I" userLabel="View - call acception container">
+                    <rect key="frame" x="0.0" y="356" width="320" height="212"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="x7D-DW-QzL" userLabel="Button - pickup video" customClass="SpreedMeRoundedButton">
+                            <rect key="frame" x="10" y="20" width="300" height="44"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                            <state key="normal" title="Answer with Video">
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="pickUpVideoButtonPressed:" destination="-1" eventType="touchUpInside" id="Q8a-AZ-poV"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="34" userLabel="Button - pickup" customClass="SpreedMeRoundedButton">
+                            <rect key="frame" x="10" y="84" width="300" height="44"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <state key="normal" title="Answer no video">
+                                <color key="titleColor" red="0.16383034660000001" green="0.68369989809999998" blue="0.22102458080000001" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="pickUpButtonPressed:" destination="-1" eventType="touchUpInside" id="fIg-tl-uvr"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="IRk-Na-92Z" userLabel="Button - reject call" customClass="SpreedMeRoundedButton">
+                            <rect key="frame" x="10" y="148" width="300" height="44"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                            <state key="normal" title="Reject call">
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="rejectIncomingCallButtonPressed:" destination="-1" eventType="touchUpInside" id="vx7-nF-G35"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="2l2-Pd-vEB" userLabel="Button - cancel call" customClass="SpreedMeRoundedButton">
+                            <rect key="frame" x="10" y="148" width="300" height="44"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                            <state key="normal" title="Cancel call">
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="cancelOutgoingCallButtonPressed:" destination="-1" eventType="touchUpInside" id="Gmd-ME-885"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                </view>
+                <view contentMode="scaleToFill" id="V0z-4J-fMv" userLabel="View - Button container">
+                    <rect key="frame" x="0.0" y="502" width="320" height="66"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="tzM-Fh-UrF" userLabel="Button - hangup" customClass="RoundedRectButton">
+                            <rect key="frame" x="258" y="11" width="44" height="44"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <state key="normal" image="EndCall.png">
+                                <color key="titleColor" red="0.84249745239999996" green="0.079407351779999996" blue="0.0749066969" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="hangUpButtonPressed:" destination="-1" eventType="touchUpInside" id="o1x-jD-BTe"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="6NE-1k-rfd" userLabel="Button - Mute" customClass="RoundedRectButton">
+                            <rect key="frame" x="98" y="11" width="44" height="44"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <state key="normal" image="Microphone_active.png">
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="muteButtonPressed:" destination="-1" eventType="touchUpInside" id="EQn-Tm-FyD"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="Kuz-kh-yBZ" userLabel="Button - More options" customClass="RoundedRectButton">
+                            <rect key="frame" x="178" y="11" width="44" height="44"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <state key="normal" image="Menu.png">
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="moreOptionsButtonPressed:" destination="-1" eventType="touchUpInside" id="o0g-zP-MvQ"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="6uq-bD-aQu" userLabel="Button - video options" customClass="RoundedRectButton">
+                            <rect key="frame" x="18" y="11" width="44" height="44"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                            <state key="normal" image="Webcam_active.png">
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="videoOptionsButtonPressed:" destination="-1" eventType="touchUpInside" id="lR6-us-6oG"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.28999999999999998" colorSpace="calibratedRGB"/>
+                </view>
+                <view contentMode="scaleToFill" id="dVE-ny-M4V">
+                    <rect key="frame" x="8" y="29" width="44" height="44"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+            <point key="canvasLocation" x="771" y="-27"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="EndCall.png" width="44" height="44"/>
+        <image name="Menu.png" width="44" height="44"/>
+        <image name="Microphone_active.png" width="44" height="44"/>
+        <image name="Webcam_active.png" width="44" height="44"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>

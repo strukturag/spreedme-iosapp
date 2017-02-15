@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6254" systemVersion="13F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6247"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="ModalWaitingViewController">
+            <connections>
+                <outlet property="activityIndicator" destination="XcO-41-ksL" id="gha-et-RqH"/>
+                <outlet property="cancelButton" destination="zb4-9y-sTL" id="ynC-81-PPl"/>
+                <outlet property="textLabel" destination="qet-ya-S9t" id="vmv-Zx-L21"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Please wait" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" preferredMaxLayoutWidth="280" translatesAutoresizingMaskIntoConstraints="NO" id="qet-ya-S9t" customClass="OutlinedLabel">
+                    <rect key="frame" x="103" y="167" width="115" height="28"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="23"/>
+                    <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zb4-9y-sTL">
+                    <rect key="frame" x="130" y="372" width="62" height="36"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                    <state key="normal" title="Cancel">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="cancelButtonPressed:" destination="-1" eventType="touchUpInside" id="yNM-C8-nGI"/>
+                    </connections>
+                </button>
+                <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" style="whiteLarge" translatesAutoresizingMaskIntoConstraints="NO" id="XcO-41-ksL">
+                    <rect key="frame" x="142" y="265" width="37" height="37"/>
+                </activityIndicatorView>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.29999999999999999" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="centerY" secondItem="XcO-41-ksL" secondAttribute="centerY" id="UL0-a8-I1W"/>
+                <constraint firstItem="XcO-41-ksL" firstAttribute="centerX" secondItem="zb4-9y-sTL" secondAttribute="centerX" id="cDd-C8-NKY"/>
+                <constraint firstItem="XcO-41-ksL" firstAttribute="centerX" secondItem="qet-ya-S9t" secondAttribute="centerX" id="ebV-vg-c2S"/>
+                <constraint firstItem="zb4-9y-sTL" firstAttribute="top" secondItem="XcO-41-ksL" secondAttribute="bottom" constant="70" id="fhg-Go-S4T"/>
+                <constraint firstItem="XcO-41-ksL" firstAttribute="top" secondItem="qet-ya-S9t" secondAttribute="bottom" constant="70" id="gyp-MP-1Qz"/>
+                <constraint firstAttribute="centerX" secondItem="XcO-41-ksL" secondAttribute="centerX" id="xhm-0X-aXd"/>
+            </constraints>
+            <point key="canvasLocation" x="237" y="163"/>
+        </view>
+    </objects>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>
