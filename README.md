@@ -12,6 +12,7 @@ You can use Spreed.ME iOS app with:
 ## Prerequisites
 
 - [Install Chromium depot tools.](http://dev.chromium.org/developers/how-tos/install-depot-tools)
+- [Quilt](http://savannah.nongnu.org/projects/quilt)
 
 ## Build steps
 Follow these steps to build WebRTC and create fat libraries needed for the XCode project.
