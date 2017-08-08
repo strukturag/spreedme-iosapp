@@ -329,7 +329,7 @@
 "label_no-rooms" = "Drücken Sie auf + um neuen Räume zu erstellen und zu besuchen.";
 
 /* No one else in this room */
-"label_no-users-in-room" = "Es befinder sich bisher niemand im Raum.";
+"label_no-users-in-room" = "Es befindet sich bisher niemand im Raum.";
 
 /* Share this room with your friends to meet them here */
 "label_no-users-more-info" = "Teilen Sie den Raum mit Ihren Freunden, um diese hier zu treffen.";
